@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-father-and-his-sons",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Father And His Sons"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Unity is strength; divided, we fall.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FATHER had a family of sons who were perpetually quarreling among themselves. When he failed to heal their disputes by his exhortations, he determined to give them a practical illustration of the evils of disunion; and for this purpose he one day told them to bring him a bundle of sticks. He next opened the faggot, took the sticks separately, one by one, and again put them into his sons’ hands, upon which they broke them easily. He then addressed them in these words: “My sons, if you are of one mind, and unite to assist each other, you will be as this faggot, uninjured by all the attempts of your enemies; but if you are divided among yourselves, you will be broken as easily as these sticks.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

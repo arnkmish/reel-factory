@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-gold-giving-serpent",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Gold-giving Serpent"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Greed destroys the very source of one's good fortune.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Now in a certain place there lived a Brahman named Haridatta. He was a farmer, but poor was the return his labour brought him. And how can you forget the pain and grief at the loss of your son?\" So speaking, it gave the Brahman a costly pearl and disappeared. But before it went away it said: \"Come back no more.\" The Brahman took the pearl, and went back home, cursing the folly of his son.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

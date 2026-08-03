@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-hares-and-the-frogs",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Hares and the Frogs"
+  },
+  "source_language": "Greek",
+  "approved_translation": "There is always someone worse off than you; do not despair of your own lot.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE HARES, oppressed by their own exceeding timidity and weary of the perpetual alarm to which they were exposed, with one accord determined to put an end to themselves and their troubles by jumping from a lofty precipice into a deep lake below. As they scampered off in large numbers to carry out their resolve, the Frogs lying on the banks of the lake heard the noise of their feet and rushed helter-skelter to the deep water for safety. On seeing the rapid disappearance of the Frogs, one of the Hares cried out to his companions: “Stay, my friends, do not do as you intended; for you now see that there are creatures who are still more timid than ourselves.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

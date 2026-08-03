@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-she-goats-and-their-beards",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The She-Goats and Their Beards"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not be proud of what is merely given; what is borrowed is not earned.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE SHE-GOATS having obtained a beard by request to Jupiter, the He-Goats were sorely displeased and made complaint that the females equaled them in dignity. “Allow them,” said Jupiter, “to enjoy an empty honour and to assume the badge of your nobler sex, so long as they are not your equals in strength or courage.”\n\nIt matters little if those who are inferior to us in merit should be like us in outside appearances. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-boys-and-the-frogs",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Boys and the Frogs"
+  },
+  "source_language": "Greek",
+  "approved_translation": "What is fun for one may be deadly to another.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "SOME BOYS, playing near a pond, saw a number of Frogs in the water and began to pelt them with stones. They killed several of them, when one of the Frogs, lifting his head out of the water, cried out: “Pray stop, my boys: what is sport to you, is death to us.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

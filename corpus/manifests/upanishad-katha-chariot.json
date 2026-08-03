@@ -1,0 +1,31 @@
+{
+  "source_id": "upanishad-katha-chariot",
+  "tradition": "Hindu Scripture",
+  "work": "Katha Upanishad",
+  "location": {
+    "story": "Katha Upanishad"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Know the Self as the rider in the chariot, the body as the chariot, the intellect as the charioteer, and the mind as the reins.",
+  "translation_author": "Swami Paramananda (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/3283",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Katha Upanishad uses the powerful metaphor of a chariot to explain human psychology and spirituality. The body is the chariot, the senses are the horses, the mind is the reins, the intellect is the charioteer, and the Self is the passenger. When the mind is undisciplined, the horses (senses) run wild. When the intellect controls the mind, the journey of life leads to wisdom.",
+  "interpretation_boundaries": [
+    "Use the chariot metaphor visually: a chariot, horses, reins, driver, and passenger",
+    "Depict the chariot moving through a landscape, suggesting the journey of life",
+    "Make the Self figure luminous and peaceful, contrasting with wild horses"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

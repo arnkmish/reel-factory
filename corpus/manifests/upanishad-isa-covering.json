@@ -1,0 +1,31 @@
+{
+  "source_id": "upanishad-isa-covering",
+  "tradition": "Hindu Scripture",
+  "work": "Isa Upanishad",
+  "location": {
+    "story": "Isa Upanishad"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "He who sees all beings in the Self, and the Self in all beings, hates none.",
+  "translation_author": "Swami Paramananda (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/3283",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Isa Upanishad teaches that when one realizes the Self is present in all beings, and all beings are present in the Self, all hatred and fear dissolve. This is the vision of oneness that transforms the heart and brings universal love and compassion.",
+  "interpretation_boundaries": [
+    "Show diverse beings\u2014humans, animals, plants\u2014connected by luminous threads of light",
+    "Depict a figure with arms open to all of nature",
+    "Use warm, golden light to suggest unity and love"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

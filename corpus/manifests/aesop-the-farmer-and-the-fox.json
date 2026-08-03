@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-farmer-and-the-fox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Farmer and the Fox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Vengeance can harm yourself more than your enemy; do not let spite guide your actions.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FARMER, who bore a grudge against a Fox for robbing his poultry yard, caught him at last, and being determined to take an ample revenge, tied some rope well soaked in oil to his tail, and set it on fire. The Fox by a strange fatality rushed to the fields of the Farmer who had captured him. It was the time of the wheat harvest; but the Farmer reaped nothing that year and returned home grieving sorely.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-crow-and-the-serpent",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Crow and the Serpent"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not invite disaster by seeking food in dangerous places; appetite can be fatal.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CROW in great want of food saw a Serpent asleep in a sunny nook, and flying down, greedily seized him. The Serpent, turning about, bit the Crow with a mortal wound. In the agony of death, the bird exclaimed: “O unhappy me! who have found in that which I deemed a happy windfall the source of my destruction.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

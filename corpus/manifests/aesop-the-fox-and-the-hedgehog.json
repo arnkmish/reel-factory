@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-hedgehog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Hedgehog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Cunning can defeat power when paired with knowledge of the terrain.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOX swimming across a rapid river was carried by the force of the current into a very deep ravine, where he lay for a long time very much bruised, sick, and unable to move. A swarm of hungry blood-sucking flies settled upon him. A Hedgehog, passing by, saw his anguish and inquired if he should drive away the flies that were tormenting him. “By no means,” replied the Fox; “pray do not molest them.” “How is this?” said the Hedgehog; “do you not want to be rid of them?” “No,” returned the Fox, “for these flies which you see are full of blood, and sting me but little, and if you rid me of these which are already satiated, others more hungry will come in their place, and will drink up all the blood I have left.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

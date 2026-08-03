@@ -1,0 +1,31 @@
+{
+  "source_id": "gita-ch2-ocean-mind",
+  "tradition": "Hindu Scripture",
+  "work": "Bhagavad Gita",
+  "location": {
+    "story": "Chapter II: The Perfect One"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Like the ocean that receives all rivers yet remains unmoved, the wise remain steady amid life's events.",
+  "translation_author": "Sir Edwin Arnold (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/2388",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Krishna compares the perfect soul to the ocean, which receives water from all rivers and streams yet never overflows its banks. Similarly, the wise person experiences the world's pleasures and pains without being disturbed by them. They remain full and complete within themselves.",
+  "interpretation_boundaries": [
+    "Use ocean and river imagery",
+    "Show water flowing into a vast, calm sea",
+    "Emphasize the stability and depth of the ocean"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

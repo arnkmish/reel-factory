@@ -1,0 +1,31 @@
+{
+  "source_id": "gita-ch2-equanimity",
+  "tradition": "Hindu Scripture",
+  "work": "Bhagavad Gita",
+  "location": {
+    "story": "Chapter II: The Steadfast Soul"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "The soul that remains unmoved by pain and pleasure, steady in both, attains the state of Yoga.",
+  "translation_author": "Sir Edwin Arnold (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/2388",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Krishna teaches Arjuna that the wise are not disturbed by sorrow or elated by joy. The soul that remains steady and calm amid life's dualities\u2014pain and pleasure, gain and loss, victory and defeat\u2014finds inner peace. This equanimity is the gateway to spiritual freedom.",
+  "interpretation_boundaries": [
+    "Use balanced imagery: day and night, sun and rain, mountains and rivers",
+    "Depict a meditative figure with serene expression amid swirling elements",
+    "Keep the visual calm and contemplative"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

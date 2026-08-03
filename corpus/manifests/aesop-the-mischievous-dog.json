@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mischievous-dog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mischievous Dog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Reputation is easily gained but hard to lose; notoriety sticks.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A DOG used to run up quietly to the heels of everyone he met, and to bite them without notice. His master suspended a bell about his neck so that the Dog might give notice of his presence wherever he went. Thinking it a mark of distinction, the Dog grew proud of his bell and went tinkling it all over the marketplace. One day an old hound said to him: “Why do you make such an exhibition of yourself? That bell that you carry is not, believe me, any order of merit, but on the contrary a mark of disgrace, a public notice to all men to avoid you as an ill mannered dog.”\n\nNotoriety is often mistaken for fame. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

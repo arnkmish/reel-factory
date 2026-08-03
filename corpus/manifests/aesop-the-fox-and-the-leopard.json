@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-leopard",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Leopard"
+  },
+  "source_language": "Greek",
+  "approved_translation": "True beauty is in the mind, not in appearance; substance trumps surface.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE FOX and the Leopard disputed which was the more beautiful of the two. The Leopard exhibited one by one the various spots which decorated his skin. But the Fox, interrupting him, said, “And how much more beautiful than you am I, who am decorated, not in body, but in mind.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

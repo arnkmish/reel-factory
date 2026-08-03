@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-thief-and-his-mother",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Thief and His Mother"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Bad habits learned in youth lead to ruin; spare the rod and spoil the child.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BOY stole a lesson-book from one of his schoolfellows and took it home to his Mother. She not only abstained from beating him, but encouraged him. The Mother upbraided him as an unnatural child, whereon he replied, “Ah! if you had beaten me when I first stole and brought to you that lesson-book, I should not have come to this, nor have been thus led to a disgraceful death.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

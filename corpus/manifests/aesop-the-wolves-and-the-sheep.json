@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolves-and-the-sheep",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolves and the Sheep"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust your enemies with your defenses, even if they offer guarantees.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "“WHY SHOULD there always be this fear and slaughter between us?” said the Wolves to the Sheep. “Those evil-disposed Dogs have much to answer for. They always bark whenever we approach you and attack us before we have done any harm. If you would only dismiss them from your heels, there might soon be treaties of peace and reconciliation between us.” The Sheep, poor silly creatures, were easily beguiled and dismissed the Dogs, whereupon the Wolves destroyed the unguarded flock at their own pleasure. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

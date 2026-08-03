@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-kid-and-the-wolf-2",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Kid and the Wolf"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Turning to the Kid, he said, “It is just what I deserve; for I, who am only a butcher, should not have turned piper to please you.”",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A KID, returning without protection from the pasture, was pursued by a Wolf. Seeing he could not escape, he turned round, and said: “I know, friend Wolf, that I must be your prey, but before I die I would ask of you one favour you will play me a tune to which I may dance.” The Wolf complied, and while he was piping and the Kid was dancing, some hounds hearing the sound ran up and began chasing the Wolf. Turning to the Kid, he said, “It is just what I deserve; for I, who am only a butcher, should not have turned piper to please you.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

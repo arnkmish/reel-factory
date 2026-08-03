@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-flea-and-the-man",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Flea and the Man"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not provoke those who can destroy you; know when to stay hidden.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN, very much annoyed with a Flea, caught him at last, and said, “Who are you who dare to feed on my limbs, and to cost me so much trouble in catching you?” The Flea replied, “O my dear sir, pray spare my life, and destroy me not, for I cannot possibly do you much harm.” The Man, laughing, replied, “Now you shall certainly die by mine own hands, for no evil, whether it be small or large, ought to be tolerated.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

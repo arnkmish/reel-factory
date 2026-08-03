@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-one-eyed-doe",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The One-Eyed Doe"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Danger comes from where you least expect it; do not guard only one side.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A DOE blind in one eye was accustomed to graze as near to the edge of the cliff as she possibly could, in the hope of securing her greater safety. She turned her sound eye towards the land that she might get the earliest tidings of the approach of hunter or hound, and her injured eye towards the sea, from whence she entertained no anticipation of danger. Some boatmen sailing by saw her, and taking a successful aim, mortally wounded her. Yielding up her last breath, she gasped forth this lament: “O wretched creature that I am! to take such precaution against the land, and after all to find this seashore, to which I had come for safety, so much more perilous.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

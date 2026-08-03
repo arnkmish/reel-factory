@@ -1,0 +1,9 @@
+# Visual Style Definitions
+families:
+  minimal_symbolic_spiritual:
+    description: "Clean, spiritual, symbolic visuals with high contrast and intentional whitespace."
+    palette: ["saffron", "deep-blue", "white", "gold"]
+    lighting: "ethereal, soft, volumetric"
+    composition: "centered, breathable, vertical focus"
+    keywords: ["minimalist", "spiritual", "sacred geometry", "ethereal"]
+    negative_prompt: "cluttered, noisy, photorealistic, modern-city, complex-background"

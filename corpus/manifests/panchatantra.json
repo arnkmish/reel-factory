@@ -1,0 +1,28 @@
+{
+  "source_id": "panchatantra-lion-mouse",
+  "tradition": "Indian Fable",
+  "work": "Panchatantra",
+  "location": {
+    "story": "The Lion and the Mouse"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Even the strongest may need the help of the smallest.",
+  "translation_author": "Vishnu Sharma (attributed)",
+  "license": "public-domain",
+  "source_url": "https://example.com/panchatantra/lion-mouse",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A powerful lion rests in a forest. A tiny mouse accidentally runs across the lion's paw, waking him. The lion catches the mouse and is about to eat it, but the mouse begs for mercy, promising that one day the small creature will repay the great kindness. Amused by the idea that such a small mouse could ever help a mighty lion, the lion lets it go. Days later, hunters trap the lion in a thick net. The lion roars in frustration, unable to free himself. Hearing the roars, the little mouse comes running, and gnaws through the ropes of the net until the lion is free. The lion realizes that no act of kindness is ever wasted, and that size and strength are not the only measures of value.",
+  "interpretation_boundaries": [
+    "Do not depict the lion anthropomorphically — keep lion and mouse as naturalistic animals",
+    "Keep the story simple and accessible; avoid over-moralizing beyond the stated lesson"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": ["corpus-v1-editorial"],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

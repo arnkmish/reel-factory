@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-traveler-and-fortune",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Traveler and Fortune"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Seize opportunity when it presents itself; fortune helps those who act.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A TRAVELER wearied from a long journey lay down, overcome with fatigue, on the very brink of a deep well. Just as he was about to fall into the water, Dame Fortune, it is said, appeared to him and waking him from his slumber thus addressed him: “Good Sir, pray wake up: for if you fall into the well, the blame will be thrown on me, and I shall get an ill name among mortals; for I find that men are sure to impute their calamities to me, however much by their own folly they have really brought them on themselves.”\n\nEveryone is more or less master of his own fate. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

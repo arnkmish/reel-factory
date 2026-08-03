@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-woman-and-her-hen",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Woman and Her Hen"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Greed destroys the very source of profit; do not overreach for more.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOMAN possessed a Hen that gave her an egg every day. She often pondered how she might obtain two eggs daily instead of one, and at last, to gain her purpose, determined to give the Hen a double allowance of barley. From that day the Hen became fat and sleek, and never once laid another egg.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

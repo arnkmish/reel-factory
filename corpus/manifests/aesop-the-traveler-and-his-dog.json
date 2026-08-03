@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-traveler-and-his-dog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Traveler and His Dog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not abandon old friends for new conveniences.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A TRAVELER about to set out on a journey saw his Dog stand at the door stretching himself. He asked him sharply: “Why do you stand there gaping?. Everything is ready but you, so come with me instantly.” The Dog, wagging his tail, replied: “O, master! I am quite ready; it is you for whom I am waiting.”\n\nThe loiterer often blames delay on his more active friend.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

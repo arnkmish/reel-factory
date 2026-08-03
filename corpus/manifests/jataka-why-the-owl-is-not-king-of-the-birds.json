@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-why-the-owl-is-not-king-of-the-birds",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "Why The Owl Is Not King Of The Birds"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Do not choose leaders based on appearance alone; consult others before deciding.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/62514",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Why is it that Crows torment the Owls as they sleep in the daytime? For the same reason that the Owls try to kill the Crows while they sleep at night. From that time on the Crows and the Owls have been enemies. The birds chose a Turtle Dove to be their king, and then flew to their homes.",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

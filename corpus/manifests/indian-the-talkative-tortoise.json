@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-talkative-tortoise",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Talkative Tortoise"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Speak at the right time; those who cannot hold their tongue bring ruin upon themselves.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The future Buddha was once born in a minister's family, when Brahma-datta was reigning in Benares; and when he grew up, he became the king's adviser in things temporal and spiritual. Now this king was very talkative; while he was speaking, others had no opportunity for a word. Then the prince told his father all that had happened to him, and how he had been saved several times by attending to the advice that he had purchased from the Brahmani. Whereupon the king expressed his sorrow for having sent him away, and all was joy and peace again.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

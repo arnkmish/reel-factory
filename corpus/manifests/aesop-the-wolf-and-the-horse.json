@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-horse",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Horse"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not bring gifts that serve yourself; the wise see through self-serving offers.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF coming out of a field of oats met a Horse and thus addressed him: “I would advise you to go into that field. It is full of fine oats, which I have left untouched for you, as you are a friend whom I would love to hear enjoying good eating.” The Horse replied, “If oats had been the food of wolves, you would never have indulged your ears at the cost of your belly.”\n\nMen of evil reputation, when they perform a good deed, fail to get credit for it. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

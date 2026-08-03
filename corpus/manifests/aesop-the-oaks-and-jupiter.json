@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-oaks-and-jupiter",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Oaks and Jupiter"
+  },
+  "source_language": "Greek",
+  "approved_translation": "We bring destruction upon ourselves by our own choices; do not blame others for your fate.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE OAKS presented a complaint to Jupiter, saying, “We bear for no purpose the burden of life, as of all the trees that grow we are the most continually in peril of the axe.” Jupiter made answer: “You have only to thank yourselves for the misfortunes to which you are exposed: for if you did not make such excellent pillars and posts, and prove yourselves so serviceable to the carpenters and the farmers, the axe would not so frequently be laid to your roots.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

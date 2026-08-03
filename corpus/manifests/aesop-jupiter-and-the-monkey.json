@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-jupiter-and-the-monkey",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "Jupiter and the Monkey"
+  },
+  "source_language": "Greek",
+  "approved_translation": "True beauty is in the eye of the beholder; every mother thinks her child is beautiful.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "JUPITER ISSUED a proclamation to all the beasts of the forest and promised a royal reward to the one whose offspring should be deemed the handsomest. The Monkey came with the rest and presented, with all a mother’s tenderness, a flat-nosed, hairless, ill-featured young Monkey as a candidate for the promised reward. A general laugh saluted her on the presentation of her son. She resolutely said, “I know not whether Jupiter will allot the prize to my son, but this I do know, that he is at least in the eyes of me his mother, the dearest, handsomest, and most beautiful of all.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

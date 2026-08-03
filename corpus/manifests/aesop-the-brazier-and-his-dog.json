@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-brazier-and-his-dog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Brazier and His Dog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not keep a companion who is useless in your work; laziness is not friendship.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BRAZIER had a little Dog, which was a great favourite with his master, and his constant companion. While he hammered away at his metals the Dog slept; but when, on the other hand, he went to dinner and began to eat, the Dog woke up and wagged his tail, as if he would ask for a share of his meal. His master one day, pretending to be angry and shaking his stick at him, said, “You wretched little sluggard!. what shall I do to you?. While I am hammering on the anvil, you sleep on the mat; and when I begin to eat after my toil, you wake up and wag your tail for food. Do you not know that labor is the source of every blessing, and that none but those who work are entitled to eat?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

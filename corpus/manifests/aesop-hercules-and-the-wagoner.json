@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-hercules-and-the-wagoner",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "Hercules and the Wagoner"
+  },
+  "source_language": "Greek",
+  "approved_translation": "The gods help those who help themselves.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CARTER was driving a wagon along a country lane, when the wheels sank down deep into a rut. The rustic driver, stupefied and aghast, stood looking at the wagon, and did nothing but utter loud cries to Hercules to come and help him. Hercules, it is said, appeared and thus addressed him: “Put your shoulders to the wheels, my man. Goad on your bullocks, and never more pray to me for help, until you have done your best to help yourself, or depend upon it you will henceforth pray in vain.”\n\nSelf-help is the best help.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

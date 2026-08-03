@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Familiarity breeds contempt; what we fear at first becomes ordinary.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "WHEN A FOX who had never yet seen a Lion, fell in with him by chance for the first time in the forest, he was so frightened that he nearly died with fear. On meeting him for the second time, he was still much alarmed, but not to the same extent as at first. On seeing him the third time, he so increased in boldness that he went up to him and commenced a familiar conversation with him. Acquaintance softens prejudices.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

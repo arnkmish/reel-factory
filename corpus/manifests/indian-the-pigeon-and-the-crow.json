@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-pigeon-and-the-crow",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Pigeon and the Crow"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "One should choose friends wisely, for bad company leads to ruin.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Once upon a time the Bodhisatta was a Pigeon, and lived in a nest-basket which a rich man's cook had hung up in the kitchen, in order to earn merit by it. A greedy Crow, flying near, saw all sorts of delicate food lying about in the kitchen, and fell a-hungering after it. _Remarks._--We began with an animal Jataka, and may appropriately finish with one which shows how effectively the writers of the Jatakas could represent animal folk, and how terribly moral they invariably were in their tales. I should perhaps add that the Bodhisat is not precisely the Buddha himself but a character which is on its way to becoming perfectly enlightened, and so may be called a future Buddha.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

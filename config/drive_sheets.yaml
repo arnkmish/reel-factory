@@ -1,0 +1,9 @@
+# Google Drive and Sheets configuration
+drive:
+  root_folder_id: "PLACEHOLDER_FOLDER_ID"
+  backup_enabled: true
+
+sheets:
+  spreadsheet_id: "PLACEHOLDER_SHEET_ID"
+  tab_name: "ProductionLog"
+  mirror_execution_state: true

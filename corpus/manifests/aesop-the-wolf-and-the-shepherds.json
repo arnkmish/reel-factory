@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-shepherds",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Shepherds"
+  },
+  "source_language": "Greek",
+  "approved_translation": "No good deed protects against a predator's nature; do not trust wolves in any form.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF, passing by, saw some Shepherds in a hut eating a haunch of mutton for their dinner. Approaching them, he said, “What a clamor you would raise if I were to do as you are doing!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

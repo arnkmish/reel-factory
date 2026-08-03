@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-playful-ass",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Playful Ass"
+  },
+  "source_language": "Greek",
+  "approved_translation": "What is amusing in one person is annoying in another; know your place.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ASS climbed up to the roof of a building, and frisking about there, broke in the tiling. The owner went up after him and quickly drove him down, beating him severely with a thick wooden cudgel. The Ass said, “Why, I saw the Monkey do this very thing yesterday, and you all laughed heartily, as if it afforded you very great amusement.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

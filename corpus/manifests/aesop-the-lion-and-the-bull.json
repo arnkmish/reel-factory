@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lion-and-the-bull",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lion and the Bull"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust the flattery of an enemy; it conceals deadly intent.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LION, greatly desiring to capture a Bull, and yet afraid to attack him on account of his great size, resorted to a trick to ensure his destruction. He approached the Bull and said, “I have slain a fine sheep, my friend; and if you will come home and partake of him with me, I shall be delighted to have your company.” The Lion said this in the hope that, as the Bull was in the act of reclining to eat, he might attack him to advantage, and make his meal on him. “I have reasons enough,” said the Bull. “I see no indication whatever of your having slaughtered a sheep, while I do see very plainly every preparation for your dining on a bull.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

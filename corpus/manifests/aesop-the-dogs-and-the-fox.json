@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dogs-and-the-fox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dogs and the Fox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not boast of what you would do in impossible situations; words are cheap.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "SOME DOGS, finding the skin of a lion, began to tear it in pieces with their teeth. A Fox, seeing them, said, “If this lion were alive, you would soon find out that his claws were stronger than your teeth.”\n\nIt is easy to kick a man that is down.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

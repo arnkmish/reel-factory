@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-man-bitten-by-a-dog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Man Bitten by a Dog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not seek revenge in a way that invites more harm; vicious circles must be broken.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN who had been bitten by a Dog went about in quest of someone who might heal him. A friend, meeting him and learning what he wanted, said, “If you would be cured, take a piece of bread, and dip it in the blood from your wound, and go and give it to the Dog that bit you.” The Man who had been bitten laughed at this advice and said, “Why? If I should do so, it would be as if I should beg every Dog in the town to bite me.”\n\nBenefits bestowed upon the evil-disposed increase their means of injuring you.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

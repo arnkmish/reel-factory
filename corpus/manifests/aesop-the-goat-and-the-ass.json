@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-goat-and-the-ass",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Goat and the Ass"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not plot against those who have done you no harm; jealousy invites disaster.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN once kept a Goat and an Ass. The Goat, envying the Ass on account of his greater abundance of food, said, “How shamefully you are treated: at one time grinding in the mill, and at another carrying heavy burdens;” and he further advised him to pretend to be epileptic and fall into a ditch and so obtain rest. The Ass listened to his words, and falling into a ditch, was very much bruised. His master, sending for a leech, asked his advice. He bade him pour upon the wounds the lungs of a Goat. They at once killed the Goat, and so healed the Ass.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

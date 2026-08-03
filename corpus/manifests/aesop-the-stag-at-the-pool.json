@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-stag-at-the-pool",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Stag at the Pool"
+  },
+  "source_language": "Greek",
+  "approved_translation": "We despise what saves us and value what destroys us; true worth is not in appearance.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A STAG overpowered by heat came to a spring to drink. Seeing his own shadow reflected in the water, he greatly admired the size and variety of his horns, but felt angry with himself for having such slender and weak feet. When too late, he thus reproached himself: “Woe is me!. How I have deceived myself! These feet which would have saved me I despised, and I gloried in these antlers which have proved my destruction.”\n\nWhat is most truly valuable is often underrated.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

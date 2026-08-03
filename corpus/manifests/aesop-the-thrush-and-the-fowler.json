@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-thrush-and-the-fowler",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Thrush and the Fowler"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not be lured by sweet promises; freedom is safer than captivity with comfort.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A THRUSH was feeding on a myrtle-tree and did not move from it because its berries were so delicious. A Fowler observed her staying so long in one spot, and having well bird-limed his reeds, caught her. The Thrush, being at the point of death, exclaimed, “O foolish creature that I am! For the sake of a little pleasant food I have deprived myself of my life.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

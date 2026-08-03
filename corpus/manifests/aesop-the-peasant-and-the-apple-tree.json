@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-peasant-and-the-apple-tree",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Peasant and the Apple-Tree"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not destroy what is unproductive without first examining its usefulness.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PEASANT had in his garden an Apple-Tree which bore no fruit but only served as a harbor for the sparrows and grasshoppers. He resolved to cut it down, and taking his axe in his hand, made a bold stroke at its roots. When he reached the hollow of the tree, he found a hive full of honey. Having tasted the honeycomb, he threw down his axe, and looking on the tree as sacred, took great care of it. Self-interest alone moves some men.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

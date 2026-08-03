@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-heifer-and-the-ox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Heifer and the Ox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not boast of what you will do; wait until you have done it.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HEIFER saw an Ox hard at work harnessed to a plow, and tormented him with reflections on his unhappy fate in being compelled to labor. Shortly afterwards, at the harvest festival, the owner released the Ox from his yoke, but bound the Heifer with cords and led him away to the altar to be slain in honour of the occasion. The Ox saw what was being done, and said with a smile to the Heifer: “For this you were allowed to live in idleness, because you were presently to be sacrificed.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

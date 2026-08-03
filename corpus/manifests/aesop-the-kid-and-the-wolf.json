@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-kid-and-the-wolf",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Kid and the Wolf"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not tease those in trouble; what goes around comes around.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A KID standing on the roof of a house, out of harm’s way, saw a Wolf passing by and immediately began to taunt and revile him. The Wolf, looking up, said, “Sirrah! I hear thee: yet it is not thou who mockest me, but the roof on which thou art standing.”\n\nTime and place often give the advantage to the weak over the strong.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

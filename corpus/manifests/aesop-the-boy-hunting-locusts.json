@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-boy-hunting-locusts",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Boy Hunting Locusts"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not mistake one danger for another; know what you are dealing with.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BOY was hunting for locusts. He had caught a goodly number, when he saw a Scorpion, and mistaking him for a locust, reached out his hand to take him. The Scorpion, showing his sting, said: “If you had but touched me, my friend, you would have lost me, and all your locusts too!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

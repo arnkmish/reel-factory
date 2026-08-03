@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-grapes",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Grapes"
+  },
+  "source_language": "Greek",
+  "approved_translation": "It is easy to despise what you cannot have.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FAMISHED FOX saw some clusters of ripe black grapes hanging from a trellised vine. She resorted to all her tricks to get at them, but wearied herself in vain, for she could not reach them. At last she turned away, hiding her disappointment and saying: “The Grapes are sour, and not ripe as I thought.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

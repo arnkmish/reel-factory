@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-jackdaw-and-the-doves",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Jackdaw and the Doves"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not try to lead those who do not accept you; return to your own kind.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A JACKDAW, seeing some Doves in a cote abundantly provided with food, painted himself white and joined them in order to share their plentiful maintenance. The Doves, as long as he was silent, supposed him to be one of themselves and admitted him to their cote. But when one day he forgot himself and began to chatter, they discovered his true character and drove him forth, pecking him with their beaks. Failing to obtain food among the Doves, he returned to the Jackdaws. They too, not recognizing him on account of his color, expelled him from living with them. So desiring two ends, he obtained neither.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

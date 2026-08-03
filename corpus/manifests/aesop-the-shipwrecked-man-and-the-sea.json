@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-shipwrecked-man-and-the-sea",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Shipwrecked Man and the Sea"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not blame nature for your own misfortune; circumstances are not malicious.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SHIPWRECKED MAN, having been cast upon a certain shore, slept after his buffetings with the deep. After a while he awoke, and looking upon the Sea, loaded it with reproaches. He argued that it enticed men with the calmness of its looks, but when it had induced them to plow its waters, it grew rough and destroyed them. The Sea, assuming the form of a woman, replied to him: “Blame not me, my good sir, but the winds, for I am by my own nature as calm and firm even as this earth; but the winds suddenly falling on me create these waves, and lash me into fury.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

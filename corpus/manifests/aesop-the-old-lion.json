@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-old-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Old Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not despise the aged; even in weakness, the mighty can still strike.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LION, worn out with years and powerless from disease, lay on the ground at the point of death. A Boar rushed upon him, and avenged with a stroke of his tusks a long-remembered injury. Shortly afterwards the Bull with his horns gored him as if he were an enemy. When the Ass saw that the huge beast could be assailed with impunity, he let drive at his forehead with his heels. The expiring Lion said, “I have reluctantly brooked the insults of the brave, but to be compelled to endure such treatment from thee, a disgrace to Nature, is indeed to die a double death.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

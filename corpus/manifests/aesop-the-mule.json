@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mule",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mule"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Ancestry does not determine ability; do not boast of what you cannot do.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MULE, frolicsome from lack of work and from too much corn, galloped about in a very extravagant manner, and said to himself: “My father surely was a high-mettled racer, and I am his own child in speed and spirit.” On the next day, being driven a long journey, and feeling very wearied, he exclaimed in a disconsolate tone: “I must have made a mistake; my father, after all, could have been only an ass.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

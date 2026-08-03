@@ -1,0 +1,31 @@
+{
+  "source_id": "gita-ch3-swadharma",
+  "tradition": "Hindu Scripture",
+  "work": "Bhagavad Gita",
+  "location": {
+    "story": "Chapter III: Virtue in Work"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Better is one's own duty, though imperfect, than another's duty performed perfectly.",
+  "translation_author": "Sir Edwin Arnold (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/2388",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Krishna teaches that each person has their own unique path and duty in life. It is better to do one's own duty imperfectly than to do another person's duty perfectly. When a person follows their own nature, they find peace and fulfillment, even if the work seems small.",
+  "interpretation_boundaries": [
+    "Show different paths: a scholar, an artist, a farmer, each dedicated to their craft",
+    "Emphasize authenticity and sincerity over comparison with others",
+    "Use diverse human figures to show universal application"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

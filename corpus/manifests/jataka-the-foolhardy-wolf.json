@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-the-foolhardy-wolf",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "The Foolhardy Wolf"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Do not act rashly against those stronger than you; overconfidence leads to death.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7518",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A lion bounded forth from his lair one day, looking north, west, south, and east. He saw a Buffalo and went to kill him. The elephant raised his right foot and killed the Wolf. Seeing all this, the Lion said, \"You will no more come forth in your might, you foolhardy Wolf.\"",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

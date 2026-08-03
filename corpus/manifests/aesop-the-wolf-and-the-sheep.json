@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-sheep",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Sheep"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust a known enemy's promises of peace.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF, sorely wounded and bitten by dogs, lay sick and maimed in his lair. Being in want of food, he called to a Sheep who was passing, and asked him to fetch some water from a stream flowing close beside him. “For,” he said, “if you will bring me drink, I will find means to provide myself with meat.” “Yes,” said the Sheep, “if I should bring you the draught, you would doubtless make me provide the meat also.”\n\nHypocritical speeches are easily seen through. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

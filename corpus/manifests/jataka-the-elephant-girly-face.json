@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-the-elephant-girly-face",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "The Elephant Girly-Face"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Kindness and gentle speech win loyalty; harsh words drive friends away.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/62514",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Once upon a time a king had an Elephant named Girly-face. The Elephant was called Girly-face because he was so gentle and good and looked so kind. I must hurt no one. I must not kill any one.\" And from that time on Girly-face was tame and as good as ever an Elephant could be.",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

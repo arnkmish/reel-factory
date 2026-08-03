@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-widow-and-her-little-maidens",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Widow and Her Little Maidens"
+  },
+  "source_language": "Greek",
+  "approved_translation": "The rooster crows most loudly at dawn; idle hands find work never done.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WIDOW who was fond of cleaning had two little maidens to wait on her. She was in the habit of waking them early in the morning, at cockcrow. The maidens, aggravated by such excessive labor, resolved to kill the cock who roused their mistress so early. When they had done this, they found that they had only prepared for themselves greater troubles, for their mistress, no longer hearing the hour from the cock, woke them up to their work in the middle of the night. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-partridge-and-the-fowler",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Partridge and the Fowler"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not betray your benefactor for the promise of freedom; ingratitude is its own trap.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOWLER caught a Partridge and was about to kill it. The Partridge earnestly begged him to spare his life, saying, “Pray, master, permit me to live and I will entice many Partridges to you in recompense for your mercy to me.” The Fowler replied, “I shall now with less scruple take your life, because you are willing to save it at the cost of betraying your friends and relations.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,31 @@
+{
+  "source_id": "veda-rig-dawn-light",
+  "tradition": "Hindu Scripture",
+  "work": "Rig Veda",
+  "location": {
+    "story": "Hymn to Dawn (Ushas)"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Dawn has awakened, opening door and gate. She has brought us near to the sight of the divine. She has revealed the pathways of the sun.",
+  "translation_author": "Ralph T.H. Griffith (trans.)",
+  "license": "public-domain",
+  "source_url": "https://sacred-texts.com/hin/rigveda/rv01048.htm",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Rig Veda contains beautiful hymns to Dawn (Ushas), the goddess of the morning light. Dawn is described as awakening the world, driving away darkness, opening the gates of heaven, and revealing the pathways of the sun. She is eternal, yet ever new\u2014brought forth again each morning. This hymn celebrates the victory of light over darkness and the daily renewal of life.",
+  "interpretation_boundaries": [
+    "Show the first light of dawn breaking over mountains or ocean",
+    "Use golden and rose-colored light, birds awakening, lotus flowers opening",
+    "Depict the transition from darkness to light as a spiritual awakening"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

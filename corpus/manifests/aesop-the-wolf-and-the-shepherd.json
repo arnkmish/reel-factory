@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-shepherd",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Shepherd"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not blame yourself for the nature of beasts; a wolf will be a wolf, regardless of kindness.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF followed a flock of sheep for a long time and did not attempt to injure one of them. The Shepherd at first stood on his guard against him, as against an enemy, and kept a strict watch over his movements. But when the Wolf, day after day, kept in the company of the sheep and did not make the slightest effort to seize them, the Shepherd began to look upon him as a guardian of his flock rather than as a plotter of evil against it; and when occasion called him one day into the city, he left the sheep entirely in his charge. The Wolf, now that he had the opportunity, fell upon the sheep, and destroyed the greater part of the flock. When the Shepherd returned to find his flock destroyed, he exclaimed: “I have been rightly served; why did I trust my sheep to a Wolf?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

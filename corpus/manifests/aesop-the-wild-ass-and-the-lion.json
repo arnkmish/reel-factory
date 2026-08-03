@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wild-ass-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wild Ass and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Alliances based on exploitation end in betrayal.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WILD ASS and a Lion entered into an alliance so that they might capture the beasts of the forest with greater ease. The Lion agreed to assist the Wild Ass with his strength, while the Wild Ass gave the Lion the benefit of his greater speed. When they had taken as many beasts as their necessities required, the Lion undertook to distribute the prey, and for this purpose divided it into three shares. “I will take the first share,” he said, “because I am King: and the second share, as a partner with you in the chase: and the third share (believe me) will be a source of great evil to you, unless you willingly resign it to me, and set off as fast as you can.”\n\nMight makes right. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

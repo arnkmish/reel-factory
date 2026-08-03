@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-eagle-and-the-fox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Eagle and the Fox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Treachery is punished in the end; those who break faith will pay the price.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN EAGLE and a Fox formed an intimate friendship and decided to live near each other. The Eagle built her nest in the branches of a tall tree, while the Fox crept into the underwood and there produced her young. While hovering near an altar, on which some villagers were sacrificing a goat, she suddenly seized a piece of the flesh, and carried it, along with a burning cinder, to her nest. A strong breeze soon fanned the spark into a flame, and the eaglets, as yet unfledged and helpless, were roasted in their nest and dropped down dead at the bottom of the tree. There, in the sight of the Eagle, the Fox gobbled them up.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

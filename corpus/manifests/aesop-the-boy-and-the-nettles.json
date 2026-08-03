@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-boy-and-the-nettles",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Boy and the Nettles"
+  },
+  "source_language": "Greek",
+  "approved_translation": "If you want something done, do it boldly; half measures accomplish nothing.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BOY was stung by a Nettle. He ran home and told his Mother, saying, “Although it hurts me very much, I only touched it gently.” “That was just why it stung you,” said his Mother. “The next time you touch a Nettle, grasp it boldly, and it will be soft as silk to your hand, and not in the least hurt you.”\n\nWhatever you do, do with all your might. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

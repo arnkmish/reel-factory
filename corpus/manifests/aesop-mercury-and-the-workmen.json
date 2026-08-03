@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-mercury-and-the-workmen",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "Mercury and the Workmen"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Honesty is rewarded; deceit brings punishment and loss.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WORKMAN, felling wood by the side of a river, let his axe drop by accident into a deep pool. Being thus deprived of the means of his livelihood, he sat down on the bank and lamented his hard fate. Mercury appeared to him just as he hoped he would; and having learned the cause of his grief, plunged into the stream and brought up a golden axe, inquiring if he had lost it. The Workman seized it greedily, and declared that truly it was the very same axe that he had lost. Mercury, displeased at his knavery, not only took away the golden axe, but refused to recover for him the axe he had thrown into the pool.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

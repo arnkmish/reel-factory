@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-gamecocks-and-the-partridge",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Gamecocks and the Partridge"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not provoke those who are stronger than you; boasting invites destruction.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN had two Gamecocks in his poultry-yard. One day by chance he found a tame Partridge for sale. Not long afterwards he saw the Cocks fighting together and not separating before one had well beaten the other. He then said to himself, “I shall no longer distress myself at being struck at by these Gamecocks, when I see that they cannot even refrain from quarreling with each other.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

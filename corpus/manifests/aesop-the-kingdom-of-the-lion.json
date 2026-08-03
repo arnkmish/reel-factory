@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-kingdom-of-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Kingdom of the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Laws are only just when they apply equally to all.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE BEASTS of the field and forest had a Lion as their king. He was neither wrathful, cruel, nor tyrannical, but just and gentle as a king could be. During his reign he made a royal proclamation for a general assembly of all the birds and beasts, and drew up conditions for a universal league, in which the Wolf and the Lamb, the Panther and the Kid, the Tiger and the Stag, the Dog and the Hare, should live together in perfect peace and amity. The Hare said, “Oh, how I have longed to see this day, in which the weak shall take their place with impunity by the side of the strong.” And after the Hare said this, he ran for his life. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

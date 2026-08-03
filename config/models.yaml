@@ -1,0 +1,15 @@
+# Model endpoints and roles
+image:
+  primary:
+    endpoint: "fal-ai/qwen-image-2/text-to-image"
+    role: "high_quality_vertical_generation"
+
+speech:
+  primary:
+    endpoint: "fal-ai/minimax/speech-2.8-hd"
+    role: "multilingual_narration"
+
+review:
+  source_model: "hermes-3-llama-3.1-8b"
+  vision_model: "hermes-3-vision"
+  final_video_model: "hermes-3-vision"

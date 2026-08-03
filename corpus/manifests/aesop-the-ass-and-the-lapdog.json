@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ass-and-the-lapdog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ass and the Lapdog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Be content with your own lot; envy leads to destruction.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN had an Ass, and a Maltese Lapdog, a very great beauty. The Ass was left in a stable and had plenty of oats and hay to eat, just as any other Ass would. The servants, hearing the strange hubbub and perceiving the danger of their master, quickly relieved him, and drove out the Ass to his stable with kicks and clubs and cuffs. The Ass, as he returned to his stall beaten nearly to death, thus lamented: “I have brought it all on myself! Why could I not have been contented to labor with my companions, and not wish to be idle all the day like that useless little Lapdog!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

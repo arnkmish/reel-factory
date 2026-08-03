@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-cobbler-turned-doctor",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Cobbler Turned Doctor"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust those who gained their position by luck; true skill is tested.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A COBBLER unable to make a living by his trade and made desperate by poverty, began to practice medicine in a town in which he was not known. He sold a drug, pretending that it was an antidote to all poisons, and obtained a great name for himself by long-winded puffs and advertisements. The Cobbler, under the fear of death, confessed that he had no knowledge of medicine, and was only made famous by the stupid clamors of the crowd. The Governor then called a public assembly and addressed the citizens: “Of what folly have you been guilty? You have not hesitated to entrust your heads to a man, whom no one could employ to make even the shoes for their feet.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

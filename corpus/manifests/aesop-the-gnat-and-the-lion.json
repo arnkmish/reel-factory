@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-gnat-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Gnat and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Even the smallest can defeat the greatest; pride in strength is foolish.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A GNAT came and said to a Lion, “I do not in the least fear you, nor are you stronger than I am. For in what does your strength consist? He greatly lamented his fate, saying, “Woe is me! that I, who can wage war successfully with the hugest beasts, should perish myself from this spider, the most inconsiderable of insects!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

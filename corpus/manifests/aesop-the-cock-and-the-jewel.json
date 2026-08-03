@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-cock-and-the-jewel",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Cock and the Jewel"
+  },
+  "source_language": "Greek",
+  "approved_translation": "A fool's treasure is worthless to the wise, and wisdom is worthless to the fool.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A COCK, scratching for food for himself and his hens, found a precious stone and exclaimed: “If your owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose. I would rather have one barleycorn than all the jewels in the world.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

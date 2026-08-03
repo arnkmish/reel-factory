@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-widow-and-the-sheep",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Widow and the Sheep"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not delay needed work; putting off repairs leads to greater loss.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN poor widow had one solitary Sheep. At shearing time, wishing to take his fleece and to avoid expense, she sheared him herself, but used the shears so unskillfully that with the fleece she sheared the flesh. The Sheep, writhing with pain, said, “Why do you hurt me so, Mistress? What weight can my blood add to the wool? If you want my flesh, there is the butcher, who will kill me in an instant; but if you want my fleece and wool, there is the shearer, who will shear and not hurt me.”\n\nThe least outlay is not always the greatest gain. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

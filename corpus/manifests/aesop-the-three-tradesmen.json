@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-three-tradesmen",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Three Tradesmen"
+  },
+  "source_language": "Greek",
+  "approved_translation": "In a crisis, everyone's trade seems indispensable; but self-interest speaks loudest.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A GREAT CITY was besieged, and its inhabitants were called together to consider the best means of protecting it from the enemy. A Bricklayer earnestly recommended bricks as affording the best material for an effective resistance. A Carpenter, with equal enthusiasm, proposed timber as a preferable method of defense. Upon which a Currier stood up and said, “Sirs, I differ from you altogether: there is no material for resistance equal to a covering of hides; and nothing so good as leather.”\n\nEvery man for himself. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

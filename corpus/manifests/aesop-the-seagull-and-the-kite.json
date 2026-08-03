@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-seagull-and-the-kite",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Seagull and the Kite"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Know your nature; what is natural for one is unnatural for another.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SEAGULL having bolted down too large a fish, burst its deep gullet-bag and lay down on the shore to die. A Kite saw him and exclaimed: “You richly deserve your fate; for a bird of the air has no business to seek its food from the sea.”\n\nEvery man should be content to mind his own business.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-horse-and-his-rider",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Horse and His Rider"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not give others control over you; freedom is worth more than comfort.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HORSE SOLDIER took the utmost pains with his charger. As long as the war lasted, he looked upon him as his fellow-helper in all emergencies and fed him carefully with hay and corn. But when the war was over, he only allowed him chaff to eat and made him carry heavy loads of wood, subjecting him to much slavish drudgery and ill-treatment. War was again proclaimed, however, and when the trumpet summoned him to his standard, the Soldier put on his charger its military trappings, and mounted, being clad in his heavy coat of mail. The Horse fell down straightway under the weight, no longer equal to the burden, and said to his master, “You must now go to the war on foot, for you have transformed me from a Horse into an Ass; and how can you expect that I can again turn in a moment from an Ass to a Horse?” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

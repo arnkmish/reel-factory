@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-sick-stag",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Sick Stag"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not neglect your strengths while tending to your appearance.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SICK STAG lay down in a quiet corner of its pasture-ground. His companions came in great numbers to inquire after his health, and each one helped himself to a share of the food which had been placed for his use; so that he died, not from his sickness, but from the failure of the means of living. Evil companions bring more hurt than profit.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-farmer-and-the-stork",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Farmer and the Stork"
+  },
+  "source_language": "Greek",
+  "approved_translation": "You are judged by the company you keep.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FARMER placed nets on his newly-sown plowlands and caught a number of Cranes, which came to pick up his seed. With them he trapped a Stork that had fractured his leg in the net and was earnestly beseeching the Farmer to spare his life. Besides, I am no Crane, I am a Stork, a bird of excellent character; and see how I love and slave for my father and mother. Look too, at my feathers—they are not the least like those of a Crane.” The Farmer laughed aloud and said, “It may be all as you say, I only know this: I have taken you with these robbers, the Cranes, and you must die in their company.”\n\nBirds of a feather flock together. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

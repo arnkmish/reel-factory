@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-crow-and-mercury",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Crow and Mercury"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not pretend to be what you are not; deception is eventually exposed.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CROW caught in a snare prayed to Apollo to release him, making a vow to offer some frankincense at his shrine. But when rescued from his danger, he forgot his promise. Shortly afterwards, again caught in a snare, he passed by Apollo and made the same promise to offer frankincense to Mercury. Mercury soon appeared and said to him, “O thou most base fellow? how can I believe thee, who hast disowned and wronged thy former patron?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

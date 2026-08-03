@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not steal what you cannot keep; the rightful owner may reclaim it.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF, having stolen a lamb from a fold, was carrying him off to his lair. A Lion met him in the path, and seizing the lamb, took it from him. Standing at a safe distance, the Wolf exclaimed, “You have unrighteously taken that which was mine from me!” To which the Lion jeeringly replied, “It was righteously yours, eh? The gift of a friend?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

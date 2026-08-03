@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-seller-of-images",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Seller of Images"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not judge by appearances; what looks valuable may be worthless.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN MAN made a wooden image of Mercury and offered it for sale. When no one appeared willing to buy it, in order to attract purchasers, he cried out that he had the statue to sell of a benefactor who bestowed wealth and helped to heap up riches. One of the bystanders said to him, “My good fellow, why do you sell him, being such a one as you describe, when you may yourself enjoy the good things he has to give?” “Why,” he replied, “I am in need of immediate help, and he is wont to give his good gifts very slowly.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-old-hound",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Old Hound"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Past service should be remembered; do not despise those whose strength has faded.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HOUND, who in the days of his youth and strength had never yielded to any beast of the forest, encountered in his old age a boar in the chase. He seized him boldly by the ear, but could not retain his hold because of the decay of his teeth, so that the boar escaped. His master, quickly coming up, was very much disappointed, and fiercely abused the dog. The Hound looked up and said, “It was not my fault master: my spirit was as good as ever, but I could not help my infirmities. I rather deserve to be praised for what I have been, than to be blamed for what I am.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

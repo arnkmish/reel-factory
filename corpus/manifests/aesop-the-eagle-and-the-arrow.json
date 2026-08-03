@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-eagle-and-the-arrow",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Eagle and the Arrow"
+  },
+  "source_language": "Greek",
+  "approved_translation": "The greatest sorrow is to be felled by one's own gift; beauty can be a curse.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN EAGLE sat on a lofty rock, watching the movements of a Hare whom he sought to make his prey. An archer, who saw the Eagle from a place of concealment, took an accurate aim and wounded him mortally. The Eagle gave one look at the arrow that had entered his heart and saw in that single glance that its feathers had been furnished by himself. “It is a double grief to me,” he exclaimed, “that I should perish by an arrow feathered from my own wings.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

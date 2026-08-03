@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-frogs’-complaint-against-the-sun",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Frogs’ Complaint Against the Sun"
+  },
+  "source_language": "Greek",
+  "approved_translation": "What will be our future condition if he should beget other suns?”",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "ONCE UPON A TIME, when the Sun announced his intention to take a wife, the Frogs lifted up their voices in clamor to the sky. Jupiter, disturbed by the noise of their croaking, inquired the cause of their complaint. One of them said, “The Sun, now while he is single, parches up the marsh, and compels us to die miserably in our arid homes. What will be our future condition if he should beget other suns?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

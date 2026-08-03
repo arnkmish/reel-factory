@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-thief-and-the-innkeeper",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Thief and the Innkeeper"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust those who have reason to betray you; guilt by proximity is dangerous.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A THIEF hired a room in a tavern and stayed a while in the hope of stealing something which should enable him to pay his reckoning. When he had waited some days in vain, he saw the Innkeeper dressed in a new and handsome coat and sitting before his door. The Innkeeper, frightened lest he should be attacked, left his new coat in the Thief’s hand and ran as fast as he could into the inn for safety. The Thief made off with the coat and did not return again to the inn. Every tale is not to be believed.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

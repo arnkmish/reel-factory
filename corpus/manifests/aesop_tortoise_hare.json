@@ -1,0 +1,28 @@
+{
+  "source_id": "aesop-tortoise-hare",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Tortoise and the Hare"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Slow and steady wins the race.",
+  "translation_author": "Aesop (attributed)",
+  "license": "public-domain",
+  "source_url": "https://example.com/aesop/tortoise-hare",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A proud and speedy hare mocks a slow tortoise for being so sluggish. The tortoise challenges the hare to a race. The hare, confident of an easy victory, dashes ahead and then stops to nap midway, certain there is plenty of time. The tortoise plods forward steadily, never stopping, and passes the sleeping hare. When the hare finally wakes and sprints to the finish line, the tortoise is already there, waiting. The lesson: persistence and consistency triumph over arrogance and haste.",
+  "interpretation_boundaries": [
+    "Keep tortoise and hare as naturalistic animals, not anthropomorphic",
+    "Focus on the lesson of persistence, not on mocking the hare"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": ["corpus-v1-editorial"],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

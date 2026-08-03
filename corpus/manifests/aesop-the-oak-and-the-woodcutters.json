@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-oak-and-the-woodcutters",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Oak and the Woodcutters"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not give your enemies the tools to destroy you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE WOODCUTTER cut down a Mountain Oak and split it in pieces, making wedges of its own branches for dividing the trunk. The Oak said with a sigh, “I do not care about the blows of the axe aimed at my roots, but I do grieve at being torn in pieces by these wedges made from my own branches.”\n\nMisfortunes springing from ourselves are the hardest to bear. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

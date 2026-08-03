@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ass-and-the-frogs",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ass and the Frogs"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not make light of others' troubles; what is bearable to one may be intolerable to another.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ASS, carrying a load of wood, passed through a pond. As he was crossing through the water he lost his footing, stumbled and fell, and not being able to rise on account of his load, groaned heavily. Some Frogs frequenting the pool heard his lamentation, and said, “What would you do if you had to live here always as we do, when you make such a fuss about a mere fall into the water?”\n\nMen often bear little grievances with less courage than they do large misfortunes. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

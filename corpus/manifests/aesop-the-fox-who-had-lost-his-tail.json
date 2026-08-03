@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-who-had-lost-his-tail",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox Who Had Lost His Tail"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not let others drag you into their misfortune through false counsel.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOX caught in a trap escaped, but in so doing lost his tail. Thereafter, feeling his life a burden from the shame and ridicule to which he was exposed, he schemed to convince all the other Foxes that being tailless was much more attractive, thus making up for his own deprivation. He assembled a good many Foxes and publicly advised them to cut off their tails, saying that they would not only look much better without them, but that they would get rid of the weight of the brush, which was a very great inconvenience. One of them interrupting him said, “If you had not yourself lost your tail, my friend, you would not thus counsel us.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

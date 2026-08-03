@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-monkey-2",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Monkey"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust flatterers; those who praise you may be seeking to use you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOX and a Monkey were traveling together on the same road. As they journeyed, they passed through a cemetery full of monuments. “All these monuments which you see,” said the Monkey, “are erected in honour of my ancestors, who were in their day freedmen and citizens of great renown.” The Fox replied, “You have chosen a most appropriate subject for your falsehoods, as I am sure none of your ancestors will be able to contradict you.”\n\nA false tale often betrays itself. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

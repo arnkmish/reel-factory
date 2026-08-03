@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-blind-man-and-the-whelp",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Blind Man and the Whelp"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not judge by touch alone; what feels familiar may be very different.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BLIND MAN was accustomed to distinguishing different animals by touching them with his hands. The whelp of a Wolf was brought him, with a request that he would feel it, and say what it was. He felt it, and being in doubt, said: “I do not quite know whether it is the cub of a Fox, or the whelp of a Wolf, but this I know full well. It would not be safe to admit him to the sheepfold.”\n\nEvil tendencies are shown in early life.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

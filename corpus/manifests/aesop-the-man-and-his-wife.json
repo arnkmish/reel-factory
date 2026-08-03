@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-man-and-his-wife",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Man and His Wife"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not try to change what cannot be changed; acceptance is wisdom.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN had a Wife who made herself hated by all the members of his household. Wishing to find out if she had the same effect on the persons in her father’s house, he made some excuse to send her home on a visit to her father. After a short time she returned, and when he inquired how she had got on and how the servants had treated her, she replied, “The herdsmen and shepherds cast on me looks of aversion.” He said, “O Wife, if you were disliked by those who go out early in the morning with their flocks and return late in the evening, what must have been felt towards you by those with whom you passed the whole day!”\n\nStraws show how the wind blows. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

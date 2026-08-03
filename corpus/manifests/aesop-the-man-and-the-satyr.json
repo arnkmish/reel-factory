@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-man-and-the-satyr",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Man and the Satyr"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust those whose nature is inconsistent; a person who blows hot and cold cannot be a friend.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN and a Satyr once drank together in token of a bond of alliance being formed between them. One very cold wintry day, as they talked, the Man put his fingers to his mouth and blew on them. When the Satyr again inquired the reason, he said that he did it to cool the meat, which was too hot. “I can no longer consider you as a friend,” said the Satyr, “a fellow who with the same breath blows hot and cold.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-two-men-who-were-enemies",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Two Men Who Were Enemies"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not let quarrels endanger everyone; private disputes should not become public disasters.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO MEN, deadly enemies to each other, were sailing in the same vessel. Determined to keep as far apart as possible, the one seated himself in the stem, and the other in the prow of the ship. A violent storm arose, and with the vessel in great danger of sinking, the one in the stern inquired of the pilot which of the two ends of the ship would go down first. On his replying that he supposed it would be the prow, the Man said, “Death would not be grievous to me, if I could only see my Enemy die before me.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

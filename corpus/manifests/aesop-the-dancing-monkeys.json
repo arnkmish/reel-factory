@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dancing-monkeys",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dancing Monkeys"
+  },
+  "source_language": "Greek",
+  "approved_translation": "What seems wonderful to fools is obvious to the wise; practice and understanding matter.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PRINCE had some Monkeys trained to dance. Being naturally great mimics of men’s actions, they showed themselves most apt pupils, and when arrayed in their rich clothes and masks, they danced as well as any of the courtiers. The spectacle was often repeated with great applause, till on one occasion a courtier, bent on mischief, took from his pocket a handful of nuts and threw them upon the stage. The Monkeys at the sight of the nuts forgot their dancing and became (as indeed they were) Monkeys instead of actors. Pulling off their masks and tearing their robes, they fought with one another for the nuts. The dancing spectacle thus came to an end amidst the laughter and ridicule of the audience.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

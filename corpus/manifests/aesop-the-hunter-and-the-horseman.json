@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-hunter-and-the-horseman",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Hunter and the Horseman"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not claim what you cannot hold; speed and skill both matter in the chase.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN HUNTER, having snared a hare, placed it upon his shoulders and set out homewards. On his way he met a man on horseback who begged the hare of him, under the pretense of purchasing it. The Hunter, sorely against his will, called out to him and said, “Get along with you! for I will now make you a present of the hare.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

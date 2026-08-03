@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-crab-and-the-fox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Crab and the Fox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not meddle in others' affairs; interference can lead to your own demise.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CRAB, forsaking the seashore, chose a neighboring green meadow as its feeding ground. A Fox came across him, and being very hungry ate him up. Just as he was on the point of being eaten, the Crab said, “I well deserve my fate, for what business had I on the land, when by my nature and habits I am only adapted for the sea?”\n\nContentment with our lot is an element of happiness. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

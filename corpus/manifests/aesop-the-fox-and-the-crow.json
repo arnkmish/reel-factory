@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-crow",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Crow"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust flatterers; they seek to take what you have.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CROW having stolen a bit of meat, perched in a tree and held it in her beak. A Fox, seeing this, longed to possess the meat himself, and by a wily stratagem succeeded. “How handsome is the Crow,” he exclaimed, “in the beauty of her shape and in the fairness of her complexion!. Oh, if her voice were only equal to her beauty, she would deservedly be considered the Queen of Birds!” This he said deceitfully; but the Crow, anxious to refute the reflection cast upon her voice, set up a loud caw and dropped the flesh. The Fox quickly picked it up, and thus addressed the Crow: “My good Crow, your voice is right enough, but your wit is wanting.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

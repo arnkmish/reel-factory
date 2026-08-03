@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-peacock-and-the-crane",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Peacock and the Crane"
+  },
+  "source_language": "Greek",
+  "approved_translation": "True beauty endures; superficial ornament is fleeting.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PEACOCK spreading its gorgeous tail mocked a Crane that passed by, ridiculing the ashen hue of its plumage and saying, “I am robed, like a king, in gold and purple and all the colors of the rainbow; while you have not a bit of color on your wings.” “True,” replied the Crane; “but I soar to the heights of heaven and lift up my voice to the stars, while you walk below, like a cock, among the birds of the dunghill.”\n\nFine feathers don’t make fine birds. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

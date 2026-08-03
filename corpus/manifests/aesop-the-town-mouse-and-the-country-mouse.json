@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-town-mouse-and-the-country-mouse",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Town Mouse and the Country Mouse"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Better a simple life in safety than a luxurious one in danger.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A COUNTRY MOUSE invited a Town Mouse, an intimate friend, to pay him a visit and partake of his country fare. As they were on the bare plowlands, eating there wheat-stocks and roots pulled up from the hedgerow, the Town Mouse said to his friend, “You live here the life of the ants, while in my house is the horn of plenty. At last the Country Mouse, almost famished, said to his friend: “Although you have prepared for me so dainty a feast, I must leave you to enjoy it by yourself. It is surrounded by too many dangers to please me. I prefer my bare plowlands and roots from the hedgerow, where I can live in safety, and without fear.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

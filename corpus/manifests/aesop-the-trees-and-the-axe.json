@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-trees-and-the-axe",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Trees and the Axe"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not sacrifice your own kind to save yourself; selfish choices bring collective ruin.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN came into a forest and asked the Trees to provide him a handle for his axe. The Trees consented to his request and gave him a young ash-tree. No sooner had the man fitted a new handle to his axe from it, than he began to use it and quickly felled with his strokes the noblest giants of the forest. An old oak, lamenting when too late the destruction of his companions, said to a neighboring cedar, “The first step has lost us all. If we had not given up the rights of the ash, we might yet have retained our own privileges and have stood for ages.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

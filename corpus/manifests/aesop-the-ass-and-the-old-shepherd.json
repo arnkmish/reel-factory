@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ass-and-the-old-shepherd",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ass and the Old Shepherd"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust the old with new responsibilities; habit overcomes caution.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SHEPHERD, watching his Ass feeding in a meadow, was alarmed all of a sudden by the cries of the enemy. He appealed to the Ass to fly with him, lest they should both be captured, but the animal lazily replied, “Why should I, pray? Do you think it likely the conqueror will place on me two sets of panniers?” “No,” rejoined the Shepherd. “Then,” said the Ass, “as long as I carry the panniers, what matters it to me whom I serve?”\n\nIn a change of government the poor change nothing beyond the name of their master. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

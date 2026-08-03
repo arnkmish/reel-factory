@@ -1,0 +1,31 @@
+{
+  "source_id": "gita-ch2-soul-beyond-harm",
+  "tradition": "Hindu Scripture",
+  "work": "Bhagavad Gita",
+  "location": {
+    "story": "Chapter II: The Soul Beyond Harm"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Weapons cannot harm the soul; fire cannot burn it; water cannot drown it; wind cannot dry it.",
+  "translation_author": "Sir Edwin Arnold (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/2388",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Krishna reveals to Arjuna the imperishable nature of the soul. No weapon can pierce it, no fire can burn it, no water can wet it, and no wind can dry it. The soul is unborn, eternal, ever-existing, and primeval. It does not die when the body dies.",
+  "interpretation_boundaries": [
+    "Use symbolic imagery: light, flame, water, wind passing through an ethereal form",
+    "Avoid literal depictions of weapons striking a body",
+    "Focus on the soul's transcendence over physical elements"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

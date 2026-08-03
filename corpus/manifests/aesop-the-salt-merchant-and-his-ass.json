@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-salt-merchant-and-his-ass",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Salt Merchant and His Ass"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Habits formed by necessity become nature; we adjust to our circumstances.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PEDDLER drove his Ass to the seashore to buy salt. His road home lay across a stream into which his Ass, making a false step, fell by accident and rose up again with his load considerably lighter, as the water melted the sack. The Peddler saw through his trick and drove him for the third time to the coast, where he bought a cargo of sponges instead of salt. The Ass, again playing the fool, fell down on purpose when he reached the stream, but the sponges became swollen with water, greatly increasing his load. And thus his trick recoiled on him, for he now carried on his back a double burden.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

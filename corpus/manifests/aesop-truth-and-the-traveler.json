@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-truth-and-the-traveler",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "Truth and the Traveler"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Truth is unwelcome to those who do not wish to hear it; people prefer comfortable lies.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WAYFARING MAN, traveling in the desert, met a woman standing alone and terribly dejected. He inquired of her, “Who art thou?” “My name is Truth,” she replied. “And for what cause,” he asked, “have you left the city to dwell alone here in the wilderness?” She made answer, “Because in former times, falsehood was with few, but is now with all men.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

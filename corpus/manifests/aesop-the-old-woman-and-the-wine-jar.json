@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-old-woman-and-the-wine-jar",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Old Woman and the Wine-Jar"
+  },
+  "source_language": "Greek",
+  "approved_translation": "The vessel hints at the quality of what it once held; reputation lingers.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN OLD WOMAN found an empty jar which had lately been full of prime old wine and which still retained the fragrant smell of its former contents. She greedily placed it several times to her nose, and drawing it backwards and forwards said, “O most delicious! How nice must the Wine itself have been, when it leaves behind in the very vessel which contained it so sweet a perfume!”\n\nThe memory of a good deed lives.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

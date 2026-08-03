@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-kites-and-the-swans",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Kites and the Swans"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not compete where you are outmatched; know your natural limitations.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TEE KITES of olden times, as well as the Swans, had the privilege of song. But having heard the neigh of the horse, they were so enchanted with the sound, that they tried to imitate it; and, in trying to neigh, they forgot how to sing. The desire for imaginary benefits often involves the loss of present blessings.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

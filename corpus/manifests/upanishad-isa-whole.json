@@ -1,0 +1,31 @@
+{
+  "source_id": "upanishad-isa-whole",
+  "tradition": "Hindu Scripture",
+  "work": "Isa Upanishad",
+  "location": {
+    "story": "Isa Upanishad"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "The whole is in the Invisible; the whole is in the visible. From the Whole comes the whole, yet the Whole remains.",
+  "translation_author": "Swami Paramananda (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/3283",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Isa Upanishad opens with a profound teaching about the nature of the Whole. The infinite reality pervades both the visible and invisible worlds. Even as the manifested universe comes forth from the unmanifest source, the source remains complete and undiminished. This is one of the most concise yet deepest teachings of the Upanishads.",
+  "interpretation_boundaries": [
+    "Use imagery of a seed containing the whole tree, or a drop reflecting the entire ocean",
+    "Show the unity of visible and invisible as interconnected halves of one whole",
+    "Keep the visual simple and cosmic, avoiding religious figures"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

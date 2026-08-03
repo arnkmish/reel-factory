@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mother-and-the-wolf",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mother and the Wolf"
+  },
+  "source_language": "Greek",
+  "approved_translation": "A parent's love knows no bounds; do not threaten what a mother holds dear.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FAMISHED WOLF was prowling about in the morning in search of food. As he passed the door of a cottage built in the forest, he heard a Mother say to her child, “Be quiet, or I will throw you out of the window, and the Wolf shall eat you.” The Wolf sat all day waiting at the door. He replied: “Why, forsooth! use I gave credence to the words of a woman!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

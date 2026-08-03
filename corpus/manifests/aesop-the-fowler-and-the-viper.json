@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fowler-and-the-viper",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fowler and the Viper"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not harm those who have helped you; ingratitude brings unexpected punishment.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOWLER, taking his bird-lime and his twigs, went out to catch birds. Seeing a thrush sitting upon a tree, he wished to take it, and fitting his twigs to a proper length, watched intently, having his whole thoughts directed towards the sky. While thus looking upwards, he unknowingly trod upon a Viper asleep just before his feet. The Viper, turning about, stung him, and falling into a swoon, the man said to himself, “Woe is me! that while I purposed to hunt another, I am myself fallen unawares into the snares of death.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

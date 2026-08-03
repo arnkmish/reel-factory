@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-two-bags",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Two Bags"
+  },
+  "source_language": "Greek",
+  "approved_translation": "We see others' faults but not our own; self-knowledge is the hardest knowledge.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "EVERY MAN, according to an ancient legend, is born into the world with two bags suspended from his neck all bag in front full of his neighbors’ faults, and a large bag behind filled with his own faults. Hence it is that men are quick to see the faults of others, and yet are often blind to their own failings.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

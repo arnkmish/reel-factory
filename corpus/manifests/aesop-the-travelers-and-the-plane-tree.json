@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-travelers-and-the-plane-tree",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Travelers and the Plane-Tree"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not despise what shelters you; ingratitude is the mark of a small mind.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO TRAVELERS, worn out by the heat of the summer’s sun, laid themselves down at noon under the widespreading branches of a Plane-Tree. As they rested under its shade, one of the Travelers said to the other, “What a singularly useless tree is the Plane!. It bears no fruit, and is not of the least service to man.” The Plane-Tree, interrupting him, said, “You ungrateful fellows! Do you, while receiving benefits from me and resting under my shade, dare to describe me as useless, and unprofitable?”\n\nSome men underrate their best blessings.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

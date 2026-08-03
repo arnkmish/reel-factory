@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lamp",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lamp"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Pride is foolish when based on borrowed light; be content with what you are.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LAMP, soaked with too much oil and flaring brightly, boasted that it gave more light than the sun. Then a sudden puff of wind arose, and the Lamp was immediately extinguished. Its owner lit it again, and said: “Boast no more, but henceforth be content to give thy light in silence. Know that not even the stars need to be relit.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

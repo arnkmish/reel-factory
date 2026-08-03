@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-cruel-crane-outwitted",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Cruel Crane Outwitted"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Cruelty and deceit ultimately bring about one's own downfall.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Long ago the Bodisat was born to a forest life as the Genius of a tree standing near a certain lotus pond. Now at that time the water used to run short at the dry season in a certain pond, not over large, in which there were a good many fish. When the Genius who lived in the Varana-tree saw this strange affair, he made the wood resound with his plaudits, uttering in a pleasant voice the verse: \"The villain, though exceeding clever, Shall prosper not by his villainy. He may win indeed, sharp-witted in deceit, But only as the Crane here from the Crab!\" Cruelty and deceit ultimately bring about one's own downfall.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

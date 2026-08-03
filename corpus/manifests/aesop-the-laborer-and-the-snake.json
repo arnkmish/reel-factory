@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-laborer-and-the-snake",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Laborer and the Snake"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Kindness to the wicked is wasted; nurture not that which will harm you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SNAKE, having made his hole close to the porch of a cottage, inflicted a mortal bite on the Cottager’s infant son. Grieving over his loss, the Father resolved to kill the Snake. The next day, when it came out of its hole for food, he took up his axe, but by swinging too hastily, missed its head and cut off only the end of its tail. After some time the Cottager, afraid that the Snake would bite him also, endeavored to make peace, and placed some bread and salt in the hole. The Snake, slightly hissing, said: “There can henceforth be no peace between us; for whenever I see you I shall remember the loss of my tail, and whenever you see me you will be thinking of the death of your son.”\n\nNo one truly forgets injuries in the presence of him who caused the injury. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

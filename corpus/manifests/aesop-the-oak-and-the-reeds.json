@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-oak-and-the-reeds",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Oak and the Reeds"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Flexibility survives the storm; rigidity is broken by it.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A VERY LARGE OAK was uprooted by the wind and thrown across a stream. It fell among some Reeds, which it thus addressed: “I wonder how you, who are so light and weak, are not entirely crushed by these strong winds.” They replied, “You fight and contend with the wind, and consequently you are destroyed; while we on the contrary bend before the least breath of air, and therefore remain unbroken, and escape.”\n\nStoop to conquer. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

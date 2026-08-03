@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-rivers-and-the-sea",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Rivers and the Sea"
+  },
+  "source_language": "Greek",
+  "approved_translation": "The student becomes the master; do not be arrogant about your position.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE RIVERS joined together to complain to the Sea, saying, “Why is it that when we flow into your tides so potable and sweet, you work in us such a change, and make us salty and unfit to drink?” The Sea, perceiving that they intended to throw the blame on him, said, “Pray cease to flow into me, and then you will not be made briny.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

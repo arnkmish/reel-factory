@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dog’s-house",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dog’s House"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Now he considered that it would be neither an easy nor a necessary work to make himself such a house as would accommodate him.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "IN THE WINTERTIME, a Dog curled up in as small a space as possible on account of the cold, determined to make himself a house. However when the summer returned again, he lay asleep stretched at his full length and appeared to himself to be of a great size. Now he considered that it would be neither an easy nor a necessary work to make himself such a house as would accommodate him.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

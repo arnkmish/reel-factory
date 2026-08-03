@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bull-and-the-goat",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bull and the Goat"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not mistake kindness for weakness; the weak may be stronger than you think.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BULL, escaping from a Lion, hid in a cave which some shepherds had recently occupied. As soon as he entered, a He-Goat left in the cave sharply attacked him with his horns. The Bull quietly addressed him: “Butt away as much as you will. I have no fear of you, but of the Lion. Let that monster go away and I will soon let you know what is the respective strength of a Goat and a Bull.”\n\nIt shows an evil disposition to take advantage of a friend in distress.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

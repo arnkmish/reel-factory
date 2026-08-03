@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lion-in-love",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lion in Love"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not sacrifice your nature for love.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LION demanded the daughter of a woodcutter in marriage. The Father, unwilling to grant, and yet afraid to refuse his request, hit upon this expedient to rid himself of his importunities. He expressed his willingness to accept the Lion as the suitor of his daughter on one condition: that he should allow him to extract his teeth, and cut off his claws, as his daughter was fearfully afraid of both. The Lion cheerfully assented to the proposal. But when the toothless, clawless Lion returned to repeat his request, the Woodman, no longer afraid, set upon him with his club, and drove him away into the forest.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

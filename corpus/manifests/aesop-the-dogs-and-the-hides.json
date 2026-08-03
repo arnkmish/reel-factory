@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dogs-and-the-hides",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dogs and the Hides"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not destroy what you need to survive; impatience brings ruin.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "SOME DOGS famished with hunger saw a number of cowhides steeping in a river. Not being able to reach them, they agreed to drink up the river, but it happened that they burst themselves with drinking long before they reached the hides. Attempt not impossibilities.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

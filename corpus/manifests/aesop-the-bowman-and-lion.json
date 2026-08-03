@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bowman-and-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bowman and Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not despise the humble; skill with a simple tool may defeat brute strength.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A VERY SKILLFUL BOWMAN went to the mountains in search of game, but all the beasts of the forest fled at his approach. The Lion alone challenged him to combat. The Bowman immediately shot out an arrow and said to the Lion: “I send thee my messenger, that from him thou mayest learn what I myself shall be when I assail thee.” The wounded Lion rushed away in great fear, and when a Fox who had seen it all happen told him to be of good courage and not to back off at the first attack he replied: “You counsel me in vain; for if he sends so fearful a messenger, how shall I abide the attack of the man himself?”\n\nBe on guard against men who can strike from a distance. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

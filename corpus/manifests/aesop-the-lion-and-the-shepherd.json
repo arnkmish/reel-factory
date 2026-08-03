@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lion-and-the-shepherd",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lion and the Shepherd"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Gratitude is remembered and repaid; kindness to the great is never wasted.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LION, roaming through a forest, trod upon a thorn. Soon afterward he came up to a Shepherd and fawned upon him, wagging his tail as if to say, “I am a suppliant, and seek your aid.” The Shepherd boldly examined the beast, discovered the thorn, and placing his paw upon his lap, pulled it out; thus relieved of his pain, the Lion returned into the forest. Some time after, the Shepherd, being imprisoned on a false accusation, was condemned “to be cast to the Lions” as the punishment for his imputed crime. But when the Lion was released from his cage, he recognized the Shepherd as the man who healed him, and instead of attacking him, approached and placed his foot upon his lap. The King, as soon as he heard the tale, ordered the Lion to be set free again in the forest, and the Shepherd to be pardoned and restored to his friends.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

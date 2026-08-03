@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mules-and-the-robbers",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mules and the Robbers"
+  },
+  "source_language": "Greek",
+  "approved_translation": "It is better to be undervalued and safe than valued and captured; humility is protection.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO MULES well-laden with packs were trudging along. One carried panniers filled with money, the other sacks weighted with grain. All of a sudden Robbers rushed upon them from their hiding-places, and in the scuffle with their owners, wounded with a sword the Mule carrying the treasure, which they greedily seized while taking no notice of the grain. The Mule which had been robbed and wounded bewailed his misfortunes. The other replied, “I am indeed glad that I was thought so little of, for I have lost nothing, nor am I hurt with any wound.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

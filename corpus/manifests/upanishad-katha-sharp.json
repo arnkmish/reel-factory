@@ -1,0 +1,31 @@
+{
+  "source_id": "upanishad-katha-sharp",
+  "tradition": "Hindu Scripture",
+  "work": "Katha Upanishad",
+  "location": {
+    "story": "Katha Upanishad"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Arise! Awake! Approach the wise and learn. Like the sharp edge of a razor is that path, so the wise say\u2014hard to tread and difficult to cross.",
+  "translation_author": "Swami Paramananda (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/3283",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Katha Upanishad famously urges the seeker to wake up from spiritual slumber and seek a true teacher. The path to Self-realization is as narrow and sharp as a razor's edge\u2014difficult to walk but the only way to freedom. This is one of the most quoted passages in all Hindu scripture.",
+  "interpretation_boundaries": [
+    "Show a figure awakening from sleep, stepping onto a narrow mountain path",
+    "Use imagery of dawn, a razor-sharp ridge, and a distant light",
+    "Emphasize the courage and determination of the spiritual seeker"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

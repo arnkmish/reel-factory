@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ox-and-the-frog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ox and the Frog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Know your own size and nature; imitation of greater things leads to ruin.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN OX drinking at a pool trod on a brood of young frogs and crushed one of them to death. The Mother coming up, and missing one of her sons, inquired of his brothers what had become of him. “He is dead, dear Mother; for just now a very huge beast with four great feet came to the pool and crushed him to death with his cloven heel.” The Frog, puffing herself out, inquired, “if the beast was as big as that in size.” “Cease, Mother, to puff yourself out,” said her son, “and do not be angry; for you would, I assure you, sooner burst than successfully imitate the hugeness of that monster.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

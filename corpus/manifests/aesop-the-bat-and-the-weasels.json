@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bat-and-the-weasels",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bat And The Weasels"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Be flexible and adapt to circumstances to survive.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BAT who fell upon the ground and was caught by a Weasel pleaded to be spared his life. The Weasel refused, saying that he was by nature the enemy of all birds. The Weasel said that he had a special hostility to mice. The Bat assured him that he was not a mouse, but a bat, and thus a second time escaped. It is wise to turn circumstances to good account.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

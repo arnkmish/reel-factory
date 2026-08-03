@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-rose-and-the-amaranth",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Rose and the Amaranth"
+  },
+  "source_language": "Greek",
+  "approved_translation": "True beauty is fleeting; what lasts is more valuable than what is merely beautiful.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN AMARANTH planted in a garden near a Rose-Tree, thus addressed it: “What a lovely flower is the Rose, a favourite alike with Gods and with men. I envy you your beauty and your perfume.” The Rose replied, “I indeed, dear Amaranth, flourish but for a brief season!. If no cruel hand pluck me from my stem, yet I must perish by an early doom. But thou art immortal and dost never fade, but bloomest for ever in renewed youth.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

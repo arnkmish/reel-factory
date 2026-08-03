@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-panther-and-the-shepherds",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Panther and the Shepherds"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not expect gratitude from those you have helped; favors are soon forgotten.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PANTHER, by some mischance, fell into a pit. The Shepherds discovered him, and some threw sticks at him and pelted him with stones, while others, moved with compassion towards one about to die even though no one should hurt him, threw in some food to prolong his life. Then they who had spared his life, fearing for their safety, surrendered to him their flocks and begged only for their lives. To them the Panther made this reply: “I remember alike those who sought my life with stones, and those who gave me food aside, therefore, your fears. I return as an enemy only to those who injured me.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

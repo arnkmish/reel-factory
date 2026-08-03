@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-thirsty-pigeon",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Thirsty Pigeon"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Zeal should not outrun discretion.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PIGEON, oppressed by excessive thirst, saw a goblet of water painted on a signboard. Not supposing it to be only a picture, she flew towards it with a loud whir and unwittingly dashed against the signboard, jarring herself terribly. Having broken her wings by the blow, she fell to the ground, and was caught by one of the bystanders. Zeal should not outrun discretion.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

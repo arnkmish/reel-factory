@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-viper-and-the-file",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Viper and the File"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not try to feed on what is harder than you; know your limits.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A VIPER, entering the workshop of a smith, sought from the tools the means of satisfying his hunger. He more particularly addressed himself to a File, and asked of him the favour of a meal. The File replied, “You must indeed be a simple-minded fellow if you expect to get anything from me, who am accustomed to take from everyone, and never to give anything in return.”\n\nThe covetous are  poor givers. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

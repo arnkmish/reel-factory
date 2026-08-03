@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-cat-and-the-mice",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Cat and the Mice"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Old age and experience are more dangerous than youth and strength.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN HOUSE was overrun with Mice. A Cat, discovering this, made her way into it and began to catch and eat them one by one. For this purpose she jumped upon a peg, and suspending herself from it, pretended to be dead. One of the Mice, peeping stealthily out, saw her and said, “Ah, my good madam, even though you should turn into a meal-bag, we will not come near you.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-image-of-mercury-and-the-carpenter",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Image of Mercury and the Carpenter"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not blame the gods for your own choices; your trade is your true god.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A VERY POOR MAN, a Carpenter by trade, had a wooden image of Mercury, before which he made offerings day by day, and begged the idol to make him rich, but in spite of his entreaties he became poorer and poorer. At last, being very angry, he took his image down from its pedestal and dashed it against the wall. When its head was knocked off, out came a stream of gold, which the Carpenter quickly picked up and said, “Well, I think thou art altogether contradictory and unreasonable; for when I paid you honour, I reaped no benefits: but now that I maltreat you I am loaded with an abundance of riches.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

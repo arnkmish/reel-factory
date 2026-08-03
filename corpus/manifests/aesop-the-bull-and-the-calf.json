@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bull-and-the-calf",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bull and the Calf"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not let size fool you; the young may be more dangerous than they appear.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BULL was striving with all his might to squeeze himself through a narrow passage which led to his stall. A young Calf came up, and offered to go before and show him the way by which he could manage to pass. “Save yourself the trouble,” said the Bull; “I knew that way long before you were born.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

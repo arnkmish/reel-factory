@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-raven-and-the-swan",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Raven and the Swan"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Nature cannot be changed by changing one's environment.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A RAVEN saw a Swan and desired to secure for himself the same beautiful plumage. Supposing that the Swan’s splendid white color arose from his washing in the water in which he swam, the Raven left the altars in the neighborhood where he picked up his living, and took up residence in the lakes and pools. But cleansing his feathers as often as he would, he could not change their color, while through want of food he perished. Change of habit cannot alter Nature.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

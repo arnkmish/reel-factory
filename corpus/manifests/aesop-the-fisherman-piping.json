@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fisherman-piping",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fisherman Piping"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Adapt your method to your audience; skill in one area does not transfer to all.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FISHERMAN skilled in music took his flute and his nets to the seashore. Standing on a projecting rock, he played several tunes in the hope that the fish, attracted by his melody, would of their own accord dance into his net, which he had placed below. At last, having long waited in vain, he laid aside his flute, and casting his net into the sea, made an excellent haul of fish. When he saw them leaping about in the net upon the rock he said: “O you most perverse creatures, when I piped you would not dance, but now that I have ceased you do so merrily.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

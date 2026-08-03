@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-sparrow-and-the-hare",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Sparrow and the Hare"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not boast of your escape when danger is near; fate catches the overconfident.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HARE pounced upon by an eagle sobbed very much and uttered cries like a child. A Sparrow upbraided her and said, “Where now is thy remarkable swiftness of foot? Why were your feet so slow?” While the Sparrow was thus speaking, a hawk suddenly seized him and killed him. The Hare was comforted in her death, and expiring said, “Ah! you who so lately, when you supposed yourself safe, exulted over my calamity, have now reason to deplore a similar misfortune.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

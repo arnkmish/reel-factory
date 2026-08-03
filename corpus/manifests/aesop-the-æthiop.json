@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-æthiop",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Æthiop"
+  },
+  "source_language": "Greek",
+  "approved_translation": "What’s bred in the bone will stick to the flesh.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE PURCHASER of a black servant was persuaded that the color of his skin arose from dirt contracted through the neglect of his former masters. On bringing him home he resorted to every means of cleaning, and subjected the man to incessant scrubbings. The servant caught a severe cold, but he never changed his color or complexion. What’s bred in the bone will stick to the flesh.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

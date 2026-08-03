@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lion-and-the-three-bulls",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lion and the Three Bulls"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Divide and conquer; unity is the only defense against the powerful.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THREE BULLS for a long time pastured together. A Lion lay in ambush in the hope of making them his prey, but was afraid to attack them while they kept together. Having at last by guileful speeches succeeded in separating them, he attacked them without fear as they fed alone, and feasted on them one by one at his own leisure. Union is strength.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

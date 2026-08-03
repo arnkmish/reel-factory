@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-geese-and-the-cranes",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Geese and the Cranes"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not burden yourself with excess; what slows you down may cost you your life.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE GEESE and the Cranes were feeding in the same meadow, when a birdcatcher came to ensnare them in his nets. The Cranes, being light of wing, fled away at his approach; while the Geese, being slower of flight and heavier in their bodies, were captured.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

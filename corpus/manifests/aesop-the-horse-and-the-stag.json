@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-horse-and-the-stag",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Horse and the Stag"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not invite help to solve one problem without considering the cost; the cure may be worse.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AT ONE TIME the Horse had the plain entirely to himself. Then a Stag intruded into his domain and shared his pasture. The Horse, desiring to revenge himself on the stranger, asked a man if he were willing to help him in punishing the Stag. The man replied that if the Horse would receive a bit in his mouth and agree to carry him, he would contrive effective weapons against the Stag. The Horse consented and allowed the man to mount him. From that hour he found that instead of obtaining revenge on the Stag, he had enslaved himself to the service of man.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

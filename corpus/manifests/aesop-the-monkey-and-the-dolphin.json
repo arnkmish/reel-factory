@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-monkey-and-the-dolphin",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Monkey and the Dolphin"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not pretend to know what you do not; ignorance exposed is worse than ignorance hidden.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SAILOR, bound on a long voyage, took with him a Monkey to amuse him while on shipboard. As he sailed off the coast of Greece, a violent tempest arose in which the ship was wrecked and he, his Monkey, and all the crew were obliged to swim for their lives. The Dolphin then inquired if he knew the Piræus (the famous harbor of Athens). Supposing that a man was meant, the Monkey answered that he knew him very well and that he was an intimate friend. The Dolphin, indignant at these falsehoods, dipped the Monkey under the water and drowned him.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

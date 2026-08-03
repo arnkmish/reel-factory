@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dog-and-the-oyster",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dog and the Oyster"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not treat all things the same; what is safe in one case may be dangerous in another.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A DOG, used to eating eggs, saw an Oyster and, opening his mouth to its widest extent, swallowed it down with the utmost relish, supposing it to be an egg. Soon afterwards suffering great pain in his stomach, he said, “I deserve all this torment, for my folly in thinking that everything round must be an egg.”\n\nThey who act without sufficient thought, will often fall into unsuspected danger. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

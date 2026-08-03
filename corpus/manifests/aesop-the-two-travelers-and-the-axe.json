@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-two-travelers-and-the-axe",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Two Travelers and the Axe"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Those who share danger together should share reward; fortune reveals true friends.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO MEN were journeying together. One of them picked up an axe that lay upon the path, and said, “I have found an axe.” “Nay, my friend,” replied the other, “do not say ‘I,’ but ‘We’ have found an axe.” They had not gone far before they saw the owner of the axe pursuing them, and he who had picked up the axe said, “We are undone.” “Nay,” replied the other, “keep to your first mode of speech, my friend; what you thought right then, think right now. Say ‘I,’ not ‘We’ are undone.”\n\nHe who shares the danger ought to share the prize.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

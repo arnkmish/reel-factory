@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wasp-and-the-snake",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wasp and the Snake"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not harm yourself to spite another; vengeance is self-destructive.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WASP seated himself upon the head of a Snake and, striking him unceasingly with his stings, wounded him to death. The Snake, being in great torment and not knowing how to rid himself of his enemy, saw a wagon heavily laden with wood, and went and purposely placed his head under the wheels, saying, “At least my enemy and I shall perish together.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

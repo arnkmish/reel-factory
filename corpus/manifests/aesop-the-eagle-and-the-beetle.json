@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-eagle-and-the-beetle",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Eagle and the Beetle"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not despise the small and humble; even the least powerful can defeat the great.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE EAGLE and the Beetle were at enmity together, and they destroyed one another’s nests. The Eagle gave the first provocation in seizing upon and in eating the young ones of the Beetle. The Beetle got by stealth at the Eagle’s eggs, and rolled them out of the nest, and followed the Eagle even into the presence of Jupiter. On the Eagle making his complaint, Jupiter ordered him to make his nest in his lap; and while Jupiter had the eggs in his lap, the Beetle came flying about him, and Jupiter rising up unawares, to drive him away from his head, threw down the eggs, and broke them. The weak often revenge themselves on those who use them ill, even though they be more powerful.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

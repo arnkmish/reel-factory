@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-how-the-monkey-saved-his-troop",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "How The Monkey Saved His Troop"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Quick thinking and courage can save many; a leader acts for the good of all.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7518",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A mango-tree grew on the bank of a great river. The fruit fell from some of the branches of this tree into the river, and from other branches it fell on the ground. \"That big Monkey,\" said the king to the archers, \"saved the whole troop. I will see to it that he is taken care of the rest of his life.\"",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

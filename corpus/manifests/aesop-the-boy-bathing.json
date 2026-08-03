@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-boy-bathing",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Boy Bathing"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not blame your tools for your own mistakes; take responsibility for your actions.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BOY bathing in a river was in danger of being drowned. He called out to a passing traveler for help, but instead of holding out a helping hand, the man stood by unconcernedly, and scolded the boy for his imprudence. “Oh, sir!” cried the youth, “pray help me now and scold me afterwards.”\n\nCounsel without help is useless.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

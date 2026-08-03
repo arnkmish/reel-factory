@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fly-and-the-draught-mule",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fly and the Draught-Mule"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not be puffed up with borrowed pride; the great do not need to boast.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FLY sat on the axle-tree of a chariot, and addressing the Draught-Mule said, “How slow you are!. Why do you not go faster?. See if I do not prick your neck with my sting.” The Draught-Mule replied, “I do not heed your threats; I only care for him who sits above you, and who quickens my pace with his whip, or holds me back with the reins. Away, therefore, with your insolence, for I know well when to go fast, and when to go slow.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

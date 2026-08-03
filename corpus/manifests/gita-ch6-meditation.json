@@ -1,0 +1,31 @@
+{
+  "source_id": "gita-ch6-meditation",
+  "tradition": "Hindu Scripture",
+  "work": "Bhagavad Gita",
+  "location": {
+    "story": "Chapter VI: Religion by Self-Restraint"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "The yogi who finds comfort within himself, who is content within himself, attains true peace.",
+  "translation_author": "Sir Edwin Arnold (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/2388",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Krishna describes the ideal yogi: one who abandons desires that shake the mind and finds inner comfort and contentment. Such a person is not dejected in sorrow or overjoyed in happiness. They are free from attachment, fear, and anger, and find lasting peace within.",
+  "interpretation_boundaries": [
+    "Depict a serene meditator in a natural setting",
+    "Use imagery of inner light, calm waters, or a steady flame",
+    "Avoid religious iconography; keep it universal and contemplative"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,16 @@
+# Review and Quality Thresholds
+review:
+  pass_threshold: 8.0
+  score_scale: 10
+  max_attempts: 3
+  fallback_policy: "best_so_far"
+  human_review_enabled: false
+
+# Source risk tiers
+risk_tiers:
+  low:
+    auto_publish: true
+  medium:
+    auto_publish: false # Requires strong source review
+  high:
+    auto_publish: false # Always quarantine

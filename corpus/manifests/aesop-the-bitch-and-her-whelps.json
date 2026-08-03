@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bitch-and-her-whelps",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bitch and Her Whelps"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not be greedy for what you cannot protect; appetite must be matched to ability.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BITCH, ready to whelp, earnestly begged a shepherd for a place where she might litter. When her request was granted, she besought permission to rear her puppies in the same spot. The shepherd again consented. But at last the Bitch, protected by the bodyguard of her Whelps, who had now grown up and were able to defend themselves, asserted her exclusive right to the place and would not permit the shepherd to approach. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

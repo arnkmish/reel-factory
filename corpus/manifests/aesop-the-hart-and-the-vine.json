@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-hart-and-the-vine",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Hart and the Vine"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not bite the hand that feeds you; betrayal of a protector leads to ruin.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HART, hard pressed in the chase, hid himself beneath the large leaves of a Vine. The huntsmen, in their haste, overshot the place of his concealment. Supposing all danger to have passed, the Hart began to nibble the tendrils of the Vine. One of the huntsmen, attracted by the rustling of the leaves, looked back, and seeing the Hart, shot an arrow from his bow and struck it. The Hart, at the point of death, groaned: “I am rightly served, for I should not have maltreated the Vine that saved me.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

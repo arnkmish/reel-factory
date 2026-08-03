@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-wolf-and-the-housedog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Wolf and the Housedog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Freedom with hunger is better than plenty with a chain.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WOLF, meeting a big well-fed Mastiff with a wooden collar about his neck asked him who it was that fed him so well and yet compelled him to drag that heavy log about wherever he went. “The master,” he replied. Then said the Wolf: “May no friend of mine ever be in such a plight; for the weight of this chain is enough to spoil the appetite.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

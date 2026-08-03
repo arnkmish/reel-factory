@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-astronomer",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Astronomer"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Keep your eyes on the ground as well as on the stars.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ASTRONOMER used to go out at night to observe the stars. One evening, as he wandered through the suburbs with his whole attention fixed on the sky, he fell accidentally into a deep well. While he lamented and bewailed his sores and bruises, and cried loudly for help, a neighbor ran to the well, and learning what had happened said: “Hark ye, old fellow, why, in striving to pry into what is in heaven, do you not manage to see what is on earth?” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

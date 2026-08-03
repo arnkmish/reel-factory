@@ -1,0 +1,31 @@
+{
+  "source_id": "veda-rig-nasadiya-creation",
+  "tradition": "Hindu Scripture",
+  "work": "Rig Veda",
+  "location": {
+    "story": "Nasadiya Sukta (Hymn of Creation)"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Then was not non-existence, nor existence. There was no realm of air, no sky beyond it. What covered all? Where was it? In whose keeping? Was there then cosmic water, in depths unfathomed?",
+  "translation_author": "Ralph T.H. Griffith (trans.)",
+  "license": "public-domain",
+  "source_url": "https://sacred-texts.com/hin/rigveda/rv10063.htm",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Nasadiya Sukta is one of the most profound hymns of the Rig Veda, asking the ultimate question: what existed before creation? It describes a state before time, space, and existence\u2014when darkness was hidden by darkness, and the One breathed without breath. This ancient hymn is remarkable for its philosophical depth and humility before the mystery of origin.",
+  "interpretation_boundaries": [
+    "Use cosmic imagery: darkness, void, primordial waters, a single point of light",
+    "Avoid literal depictions of deities; focus on the mystery of origin",
+    "Keep the visual vast, mysterious, and awe-inspiring"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

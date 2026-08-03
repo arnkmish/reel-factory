@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ass-in-the-lion’s-skin",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ass in the Lion’s Skin"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Fine clothes do not change one's nature; appearances cannot hide reality forever.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ASS, having put on the Lion’s skin, roamed about in the forest and amused himself by frightening all the foolish animals he met in his wanderings. At last coming upon a Fox, he tried to frighten him also, but the Fox no sooner heard the sound of his voice than he exclaimed, “I might possibly have been frightened myself, if I had not heard your bray.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bald-knight",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bald Knight"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Make the best of what cannot be changed; humor covers what vanity cannot.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BALD KNIGHT, who wore a wig, went out to hunt. A sudden puff of wind blew off his hat and wig, at which a loud laugh rang forth from his companions. He pulled up his horse, and with great glee joined in the joke by saying, “What a marvel it is that hairs which are not mine should fly from me, when they have forsaken even the man on whose head they grew.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

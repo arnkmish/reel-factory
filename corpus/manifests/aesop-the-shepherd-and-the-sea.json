@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-shepherd-and-the-sea",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Shepherd and the Sea"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust appearances; a calm surface hides dangerous depths.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A SHEPHERD, keeping watch over his sheep near the shore, saw the Sea very calm and smooth, and longed to make a voyage with a view to commerce. He sold all his flock, invested it in a cargo of dates, and set sail. But a very great tempest came on, and the ship being in danger of sinking, he threw all his merchandise overboard, and barely escaped with his life in the empty ship. Not long afterwards when someone passed by and observed the unruffled calm of the Sea, he interrupted him and said, “It is again in want of dates, and therefore looks quiet.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

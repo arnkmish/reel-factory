@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ant-and-the-dove",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ant and the Dove"
+  },
+  "source_language": "Greek",
+  "approved_translation": "One good turn deserves another; even the small can help the great.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ANT went to the bank of a river to quench its thirst, and being carried away by the rush of the stream, was on the point of drowning. A Dove sitting on a tree overhanging the water plucked a leaf and let it fall into the stream close to her. The Ant climbed onto it and floated in safety to the bank. Shortly afterwards a birdcatcher came and stood under the tree, and laid his lime-twigs for the Dove, which sat in the branches. The Ant, perceiving his design, stung him in the foot. In pain the birdcatcher threw down the twigs, and the noise made the Dove take wing.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

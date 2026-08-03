@@ -1,0 +1,31 @@
+{
+  "source_id": "veda-rig-purusha-cosmic",
+  "tradition": "Hindu Scripture",
+  "work": "Rig Veda",
+  "location": {
+    "story": "Purusha Sukta (Hymn of the Cosmic Being)"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "The cosmic Being has a thousand heads, a thousand eyes, a thousand feet. He envelops the earth on all sides and extends beyond it by ten fingers' breadth.",
+  "translation_author": "Ralph T.H. Griffith (trans.)",
+  "license": "public-domain",
+  "source_url": "https://sacred-texts.com/hin/rigveda/rv10090.htm",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Purusha Sukta describes the Cosmic Being (Purusha) whose infinite body contains all of creation. From this cosmic person, the universe was born\u2014his mind became the moon, his eyes the sun, his breath the wind, and his body the earth. This hymn expresses the profound vision of unity: all creation is one vast living being.",
+  "interpretation_boundaries": [
+    "Depict a vast cosmic figure whose body contains stars, rivers, mountains, and forests",
+    "Show the interconnectedness of all nature as parts of one great being",
+    "Use luminous, ethereal imagery suggesting transcendence"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

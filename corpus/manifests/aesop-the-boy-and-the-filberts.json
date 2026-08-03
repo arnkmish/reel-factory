@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-boy-and-the-filberts",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Boy and the Filberts"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not try to grasp too much at once; greed leads to losing everything.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A BOY put his hand into a pitcher full of filberts. He grasped as many as he could possibly hold, but when he tried to pull out his hand, he was prevented from doing so by the neck of the pitcher. Unwilling to lose his filberts, and yet unable to withdraw his hand, he burst into tears and bitterly lamented his disappointment. A bystander said to him, “Be satisfied with half the quantity, and you will readily draw out your hand.”\n\nDo not attempt too much at once.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

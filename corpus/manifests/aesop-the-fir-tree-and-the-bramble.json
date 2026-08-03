@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fir-tree-and-the-bramble",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fir-Tree and the Bramble"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not aspire to greatness at the cost of safety.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FIR-TREE said boastingly to the Bramble, “You are useful for nothing at all; while I am everywhere used for roofs and houses.” The Bramble answered: “You poor creature, if you would only call to mind the axes and saws which are about to hew you down, you would have reason to wish that you had grown up a Bramble, not a Fir-Tree.”\n\nBetter poverty without care, than riches with. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

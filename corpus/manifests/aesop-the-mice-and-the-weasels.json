@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mice-and-the-weasels",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mice and the Weasels"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Those who cannot fight must flee; accept your limitations.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE WEASELS and the Mice waged a perpetual war with each other, in which much blood was shed. The Weasels were always the victors. Scarcely had the battle begun, when a great rout overwhelmed the Mice, who scampered off as fast as they could to their holes. The generals, not being able to get in on account of the ornaments on their heads, were all captured and eaten by the Weasels. The more honour the more danger.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

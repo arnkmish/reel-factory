@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-weasel-and-the-mice",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Weasel and the Mice"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not change your nature to suit a new situation; adaptation has limits.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WEASEL, inactive from age and infirmities, was not able to catch mice as he once did. He therefore rolled himself in flour and lay down in a dark corner. A very old Mouse, who had escaped many a trap and snare, observed from a safe distance the trick of his crafty foe and said, “Ah! you that lie there, may you prosper just in the same proportion as you are what you pretend to be!”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

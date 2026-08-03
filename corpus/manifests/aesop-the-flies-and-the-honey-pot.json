@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-flies-and-the-honey-pot",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Flies and the Honey-Pot"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Delicious food is not worth dying for; greed destroys those who cannot resist it.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A NUMBER of Flies were attracted to a jar of honey which had been overturned in a housekeeper’s room, and placing their feet in it, ate greedily. Their feet, however, became so smeared with the honey that they could not use their wings, nor release themselves, and were suffocated. Just as they were expiring, they exclaimed, “O foolish creatures that we are, for the sake of a little pleasure we have destroyed ourselves.”\n\nPleasure bought with pains, hurts.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-camel-and-the-arab",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Camel and the Arab"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Question the justice of arrangements before accepting them; nature cannot be changed.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ARAB Camel-driver, after completing the loading of his Camel, asked him which he would like best, to go up hill or down. The poor beast replied, not without a touch of reason: “Why do you ask me? Is it that the level way through the desert is closed?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

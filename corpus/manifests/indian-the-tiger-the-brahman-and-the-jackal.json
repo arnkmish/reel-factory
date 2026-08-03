@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-tiger-the-brahman-and-the-jackal",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Tiger, the Brahman, and the Jackal"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Clever thinking can solve problems that brute force cannot.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Once upon a time, a tiger was caught in a trap. He tried in vain to get out through the bars, and rolled and bit with rage and grief when he failed. Please don't be angry, my lord, but what is the usual way?\" At this the tiger lost patience, and, jumping into the cage, cried, \"This way! Now do you understand how it was?\" \"Perfectly!\" grinned the jackal, as he dexterously shut the door, \"and if you will permit me to say so, I think matters will remain as they were!\" Clever thinking can solve problems that brute force cannot.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

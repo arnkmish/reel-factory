@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lark-burying-her-father",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lark Burying Her Father"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Duty to parents is sacred; even in death, filial piety must be honored.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE LARK (according to an ancient legend) was created before the earth itself, and when her father died, as there was no earth, she could find no place of burial for him. She let him lie uninterred for five days, and on the sixth day, not knowing what else to do, she buried him in her own head. Hence she obtained her crest, which is popularly said to be her father’s grave-hillock. Youth’s first duty is reverence to parents.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

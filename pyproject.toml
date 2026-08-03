@@ -1,0 +1,25 @@
+[project]
+name = "reel-factory"
+version = "0.1.0"
+description = "Automated Faceless Short-Story Reel Generator"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.0",
+    "pyyaml",
+    "structlog",
+    "tenacity",
+    "pillow",
+    "google-api-python-client",
+    "google-auth-oauthlib",
+    "gspread",
+    "fal-client",
+    "pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+reel-factory = "reel_factory.cli:main"

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-goods-and-the-ills",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Goods and the Ills"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Troubles multiply when invited; beware of what you welcome into your life.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "ALL the Goods were once driven out by the Ills from that common share which they each had in the affairs of mankind; for the Ills by reason of their numbers had prevailed to possess the earth. The Goods wafted themselves to heaven and asked for a righteous vengeance on their persecutors. They entreated Jupiter that they might no longer be associated with the Ills, as they had nothing in common and could not live together, but were engaged in unceasing warfare; and that an indissoluble law might be laid down for their future protection. Jupiter granted their request and decreed that henceforth the Ills should visit the earth in company with each other, but that the Goods should one by one enter the habitations of men. Hence it arises that Ills abound, for they come not one by one, but in troops, and by no means singly: while the Goods proceed from Jupiter, and are given, not alike to all, but singly, and separately; and one by one to those who are able to discern them. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

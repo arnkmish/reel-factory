@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-oxen-and-the-butchers",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Oxen and the Butchers"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Those who quarrel among themselves make it easy for their enemies to destroy them.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE OXEN once upon a time sought to destroy the Butchers, who practiced a trade destructive to their race. They assembled on a certain day to carry out their purpose, and sharpened their horns for the contest. But one of them who was exceedingly old (for many a field had he plowed) thus spoke: “These Butchers, it is true, slaughter us, but they do so with skillful hands, and with no unnecessary pain. If we get rid of them, we shall fall into the hands of unskillful operators, and thus suffer a double death: for you may be assured, that though all the Butchers should perish, yet will men never want beef.”\n\nDo not be in a hurry to change one evil for another. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

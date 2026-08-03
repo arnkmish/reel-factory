@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-monkey-and-the-fishermen",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Monkey and the Fishermen"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Imitation of others without understanding leads to harm.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MONKEY perched upon a lofty tree saw some Fishermen casting their nets into a river, and narrowly watched their proceedings. The Fishermen after a while gave up fishing, and on going home to dinner left their nets upon the bank. The Monkey, who is the most imitative of animals, descended from the treetop and endeavored to do as they had done. Having handled the net, he threw it into the river, but became tangled in the meshes and drowned. With his last breath he said to himself, “I am rightly served; for what business had I who had never handled a net to try and catch fish?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

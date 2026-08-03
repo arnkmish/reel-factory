@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-charger-and-the-miller",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Charger and the Miller"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not be proud in prosperity; fortune can change in an instant.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CHARGER, feeling the infirmities of age, was sent to work in a mill instead of going out to battle. But when he was compelled to grind instead of serving in the wars, he bewailed his change of fortune and called to mind his former state, saying, “Ah! Miller, I had indeed to go campaigning before, but I was barbed from counter to tail, and a man went along to groom me; and now I cannot understand what ailed me to prefer the mill before the battle.” “Forbear,” said the Miller to him, “harping on what was of yore, for it is the common lot of mortals to sustain the ups and downs of fortune.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

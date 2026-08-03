@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-two-frogs",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Two Frogs"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not jump into unknown situations; what looks better may be worse.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO FROGS dwelt in the same pool. When the pool dried up under the summer’s heat, they left it and set out together for another home. As they went along they chanced to pass a deep well, amply supplied with water, and when they saw it, one of the Frogs said to the other, “Let us descend and make our abode in this well: it will furnish us with shelter and food.” The other replied with greater caution, “But suppose the water should fail us. How can we get out again from so great a depth?”\n\nDo nothing without a regard to the consequences.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

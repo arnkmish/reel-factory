@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-old-man-and-death",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Old Man and Death"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Be careful what you wish for; even misery may be preferable to nonexistence.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN OLD MAN was employed in cutting wood in the forest, and, in carrying the faggots to the city for sale one day, became very wearied with his long journey. He sat down by the wayside, and throwing down his load, besought “Death” to come. “Death” immediately appeared in answer to his summons and asked for what reason he had called him. The Old Man hurriedly replied, “That, lifting up the load, you may place it again upon my shoulders.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

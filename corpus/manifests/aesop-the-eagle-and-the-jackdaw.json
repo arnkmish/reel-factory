@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-eagle-and-the-jackdaw",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Eagle and the Jackdaw"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not attempt what is beyond your power; imitating the great leads to a fall.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN EAGLE, flying down from his perch on a lofty rock, seized upon a lamb and carried him aloft in his talons. A Jackdaw, who witnessed the capture of the lamb, was stirred with envy and determined to emulate the strength and flight of the Eagle. He flew around with a great whir of his wings and settled upon a large ram, with the intention of carrying him off, but his claws became entangled in the ram’s fleece and he was not able to release himself, although he fluttered with his feathers as much as he could. The shepherd, seeing what had happened, ran up and caught him. He at once clipped the Jackdaw’s wings, and taking him home at night, gave him to his children. On their saying, “Father, what kind of bird is it?” he replied, “To my certain knowledge he is a Daw; but he would like you to think an Eagle.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

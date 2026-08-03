@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-frogs-asking-for-a-king",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Frogs Asking for a King"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Better no rule than cruel rule; be careful what you wish for.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE FROGS, grieved at having no established Ruler, sent ambassadors to Jupiter entreating for a King. Perceiving their simplicity, he cast down a huge log into the lake. He then gave them an Eel to govern them. When the Frogs discovered his easy good nature, they sent yet a third time to Jupiter to beg him to choose for them still another King. Jupiter, displeased with all their complaints, sent a Heron, who preyed upon the Frogs day by day till there were none left to croak upon the lake.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

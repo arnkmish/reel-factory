@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-goat-and-the-goatherd",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Goat and the Goatherd"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not invite trouble by seeking unnecessary attention.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A GOATHERD had sought to bring back a stray goat to his flock. He whistled and sounded his horn in vain; the straggler paid no attention to the summons. At last the Goatherd threw a stone, and breaking its horn, begged the Goat not to tell his master. The Goat replied, “Why, you silly fellow, the horn will speak though I be silent.”\n\nDo not attempt to hide things which cannot be hid.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

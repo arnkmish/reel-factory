@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-master-and-his-dogs",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Master and His Dogs"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Delay is not denial; be patient for your reward.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN MAN, detained by a storm in his country house, first of all killed his sheep, and then his goats, for the maintenance of his household. The storm still continuing, he was obliged to slaughter his yoke oxen for food. On seeing this, his Dogs took counsel together, and said, “It is time for us to be off, for if the master spare not his oxen, who work for his gain, how can we expect him to spare us?”\n\nHe is not to be trusted as a friend who mistreats his own family. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

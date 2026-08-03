@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-gnat-and-the-bull",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Gnat and the Bull"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not overestimate your importance; the great may not even notice you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A GNAT settled on the horn of a Bull, and sat there a long time. Just as he was about to fly off, he made a buzzing noise, and inquired of the Bull if he would like him to go. The Bull replied, “I did not know you had come, and I shall not miss you when you go away.”\n\nSome men are of more consequence in their own eyes than in the eyes of their neighbors.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

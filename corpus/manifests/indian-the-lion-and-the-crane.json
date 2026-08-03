@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-the-lion-and-the-crane",
+  "tradition": "Indian Folklore",
+  "work": "Indian Fairy Tales",
+  "location": {
+    "story": "The Lion and the Crane"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Do not expect gratitude from the powerful; better to withdraw from the ungrateful than to serve them in vain.",
+  "translation_author": "Joseph Jacobs (collected from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7128",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Bodhisatta was at one time born in the region of Himavanta as a white crane; now Brahmadatta was at that time reigning in Benares. Now it chanced that as a lion was eating meat a bone stuck in his throat. After a few days the prince's son said to his wife, \"Let us go to my father's country.\" The Princess Labam's father gave them a quantity of camels and horses and rupees and servants; and they travelled in great state to the prince's country, where they lived happily. The prince always kept his bag, bowl, bed, and stick; only, as no one ever came to make war on him, he never needed to use the stick.",
+  "interpretation_boundaries": [
+    "Keep animal characters naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, avoid cultural stereotyping",
+    "Do not depict religious figures or deities literally"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

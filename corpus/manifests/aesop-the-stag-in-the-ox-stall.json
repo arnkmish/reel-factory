@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-stag-in-the-ox-stall",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Stag in the Ox-Stall"
+  },
+  "source_language": "Greek",
+  "approved_translation": "There is no hiding place that hides you from your fate forever.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A STAG, roundly chased by the hounds and blinded by fear to the danger he was running into, took shelter in a farmyard and hid himself in a shed among the oxen. An Ox gave him this kindly warning: “O unhappy creature!. There is not half enough straw for them to lie on. Those lazy fellows have not even swept the cobwebs away.” While he thus examined everything in turn, he spied the tips of the antlers of the Stag peeping out of the straw. Then summoning his laborers, he ordered that the Stag should be seized and killed.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

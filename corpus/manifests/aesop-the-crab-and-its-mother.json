@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-crab-and-its-mother",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Crab and Its Mother"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Example is better than precept; do not demand what you yourself cannot do.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CRAB said to her son, “Why do you walk so one-sided, my child?. It is far more becoming to go straight forward.” The young Crab replied: “Quite true, dear Mother; and if you will show me the straight way, I will promise to walk in it.” The Mother tried in vain, and submitted without remonstrance to the reproof of her child. Example is more powerful than precept.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

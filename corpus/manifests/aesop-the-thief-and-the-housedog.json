@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-thief-and-the-housedog",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Thief and the Housedog"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not sell your vigilance for profit; those who shirk their duty are easily corrupted.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A THIEF came in the night to break into a house. He brought with him several slices of meat in order to pacify the Housedog, so that he would not alarm his master by barking. As the Thief threw him the pieces of meat, the Dog said, “If you think to stop my mouth, you will be greatly mistaken. This sudden kindness at your hands will only make me more watchful, lest under these unexpected favours to myself, you have some private ends to accomplish for your own benefit, and for my master’s injury.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-cat-and-the-birds",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Cat and the Birds"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Beware of false promises from those who would do you harm.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CAT, hearing that the Birds in a certain aviary were ailing dressed himself up as a physician, and, taking his cane and a bag of instruments becoming his profession, went to call on them. He knocked at the door and inquired of the inmates how they all did, saying that if they were ill, he would be happy to prescribe for them and cure them. They replied, “We are all very well, and shall continue so, if you will only be good enough to go away, and leave us as we are.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

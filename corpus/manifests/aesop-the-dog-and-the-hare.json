@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dog-and-the-hare",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dog and the Hare"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Some pursuits are for sport, others for survival; intent determines effort.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HOUND having started a Hare on the hillside pursued her for some distance, at one time biting her with his teeth as if he would take her life, and at another fawning upon her, as if in play with another dog. The Hare said to him, “I wish you would act sincerely by me, and show yourself in your true colors. If you are a friend, why do you bite me so hard? If an enemy, why do you fawn on me?”\n\nNo one can be a friend if you know not whether to trust or distrust him.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-doe-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Doe and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Misfortune can come from where you least expect it; even refuge may be a trap.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A DOE hard pressed by hunters sought refuge in a cave belonging to a Lion. The Lion concealed himself on seeing her approach, but when she was safe within the cave, sprang upon her and tore her to pieces. “Woe is me,” exclaimed the Doe, “who have escaped from man, only to throw myself into the mouth of a wild beast?”\n\nIn avoiding one evil, care must be taken not to fall into another. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

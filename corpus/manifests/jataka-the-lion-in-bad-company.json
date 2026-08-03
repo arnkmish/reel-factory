@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-the-lion-in-bad-company",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "The Lion In Bad Company"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Bad company corrupts; choose your companions wisely, for they shape your fate.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7518",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "One day a young Lion came suddenly upon a Wolf. The Wolf was not able to get away, so he said to the Lion: \"Please, Great Lion, could you take me to your den, and let me live with you and your mate? Then the Wolf said to himself: \"The Lion has been shot, and soon he will die. I will now go back to my old home in the woods.\" And so he did.",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-eagle-and-his-captor",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Eagle and His Captor"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not cultivate the favor of the powerful at the expense of the humble; the humble may save you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN EAGLE was once captured by a man, who immediately clipped his wings and put him into his poultry-yard with the other birds, at which treatment the Eagle was weighed down with grief. Later, another neighbor purchased him and allowed his feathers to grow again. The Eagle took flight, and pouncing upon a hare, brought it at once as an offering to his benefactor. A Fox, seeing this, exclaimed, “Do not cultivate the favour of this man, but of your former owner, lest he should again hunt for you and deprive you a second time of your wings.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

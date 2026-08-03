@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-ass-and-the-horse",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Ass and the Horse"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not refuse to help others in their need; what you give may save you later.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "AN ASS besought a Horse to spare him a small portion of his feed. “Yes,” said the Horse; “if any remains out of what I am now eating I will give it you for the sake of my own superior dignity, and if you will come when I reach my own stall in the evening, I will give you a little sack full of barley.” The Ass replied, “Thank you. But I can’t think that you, who refuse me a little matter now, will by and by confer on me a greater benefit.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-crow-and-the-sheep",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Crow and the Sheep"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not make promises you cannot keep; trust is fragile.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A TROUBLESOME CROW seated herself on the back of a Sheep. The Sheep, much against his will, carried her backward and forward for a long time, and at last said, “If you had treated a dog in this way, you would have had your deserts from his sharp teeth.” To this the Crow replied, “I despise the weak and yield to the strong. I know whom I may bully and whom I must flatter; and I thus prolong my life to a good old age.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

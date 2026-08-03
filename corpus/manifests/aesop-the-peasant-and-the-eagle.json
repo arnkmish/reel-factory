@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-peasant-and-the-eagle",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Peasant and the Eagle"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Gratitude and loyalty are rewarded; do not repay kindness with harm.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A PEASANT found an Eagle captured in a trap, and much admiring the bird, set him free. The Eagle did not prove ungrateful to his deliverer, for seeing the Peasant sitting under a wall which was not safe, he flew toward him and with his talons snatched a bundle from his head. When the Peasant rose in pursuit, the Eagle let the bundle fall again. Taking it up, the man returned to the same place, to find that the wall under which he had been sitting had fallen to pieces; and he marveled at the service rendered him by the Eagle.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

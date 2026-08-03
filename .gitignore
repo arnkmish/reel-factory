@@ -1,0 +1,28 @@
+# Secrets & env
+.env
+secrets/
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Runtime artifacts
+runtime/output/
+runtime/logs/
+runtime/state.db
+runtime/*.json
+*.log
+
+# pytest
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db

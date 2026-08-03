@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-dog-and-the-cook",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Dog and the Cook"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not trust those who have wronged you once; caution is better than gratitude.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A RICH MAN gave a great feast, to which he invited many friends and acquaintances. His Dog availed himself of the occasion to invite a stranger Dog, a friend of his, saying, “My master gives a feast, and there is always much food remaining; come and sup with me tonight.” The Dog thus invited went at the hour appointed, and seeing the preparations for so grand an entertainment, said in the joy of his heart, “How glad I am that I came!. His yelling soon attracted other street dogs, who came up to him and inquired how he had enjoyed his supper. He replied, “Why, to tell you the truth, I drank so much wine that I remember nothing. I do not know how I got out of the house.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

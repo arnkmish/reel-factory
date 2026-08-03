@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-charcoal-burner-and-the-fuller",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Charcoal-Burner And The Fuller"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not form partnerships that would destroy your livelihood.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CHARCOAL-BURNER carried on his trade in his own house. One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened. The Fuller replied, “The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal.”\n\nLike will draw like.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

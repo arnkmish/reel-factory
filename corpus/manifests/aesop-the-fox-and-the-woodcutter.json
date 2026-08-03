@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fox-and-the-woodcutter",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fox and the Woodcutter"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Actions speak louder than words; do not be deceived by a smooth tongue.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FOX, running before the hounds, came across a Woodcutter felling an oak and begged him to show him a safe hiding-place. The Woodcutter advised him to take shelter in his own hut, so the Fox crept in and hid himself in a corner. The huntsman took no notice of the signs, but believing his word, hastened forward in the chase. As soon as they were well away, the Fox departed without taking any notice of the Woodcutter: whereon he called to him and reproached him, saying, “You ungrateful fellow, you owe your life to me, and yet you leave me without a word of thanks.” The Fox replied, “Indeed, I should have thanked you fervently if your deeds had been as good as your words, and if your hands had not been traitors to your speech.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

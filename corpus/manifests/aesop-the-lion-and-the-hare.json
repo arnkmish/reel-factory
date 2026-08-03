@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lion-and-the-hare",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lion and the Hare"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not throw away what you have for what you might get; a bird in the hand is worth two in the bush.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A LION came across a Hare, who was fast asleep. He was just in the act of seizing her, when a fine young Hart trotted by, and he left the Hare to follow him. The Hare, scared by the noise, awoke and scudded away. The Lion was unable after a long chase to catch the Hart, and returned to feed upon the Hare. On finding that the Hare also had run off, he said, “I am rightly served, for having let go of the food that I had in my hand for the chance of obtaining more.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

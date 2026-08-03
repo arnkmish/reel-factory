@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-prophet",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Prophet"
+  },
+  "source_language": "Greek",
+  "approved_translation": "It is easy to be wise after the event; true foresight is rare.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A WIZARD, sitting in the marketplace, was telling the fortunes of the passers-by when a person ran up in great haste, and announced to him that the doors of his house had been broken open and that all his goods were being stolen. He sighed heavily and hastened away as fast as he could run. A neighbor saw him running and said, “Oh! you fellow there! you say you can foretell the fortunes of others; how is it you did not foresee your own?”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

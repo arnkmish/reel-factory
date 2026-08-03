@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-mole-and-his-mother",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Mole and His Mother"
+  },
+  "source_language": "Greek",
+  "approved_translation": "It is not the possession but the knowledge of a thing that matters.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MOLE, a creature blind from birth, once said to his Mother: “I am sure than I can see, Mother!” In the desire to prove to him his mistake, his Mother placed before him a few grains of frankincense, and asked, “What is it?” The young Mole said, “It is a pebble.” His Mother exclaimed: “My son, I am afraid that you are not only blind, but that you have lost your sense of smell.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

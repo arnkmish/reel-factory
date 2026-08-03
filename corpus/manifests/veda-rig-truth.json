@@ -1,0 +1,31 @@
+{
+  "source_id": "veda-rig-truth",
+  "tradition": "Hindu Scripture",
+  "work": "Rig Veda",
+  "location": {
+    "story": "Hymn to Truth (Rta)"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "Truth is the base that bears the earth; by Truth this sun is made to shine. Truth has established the law of order. By truth the heavens are strong.",
+  "translation_author": "Ralph T.H. Griffith (trans.)",
+  "license": "public-domain",
+  "source_url": "https://sacred-texts.com/hin/rigveda/",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Rig Veda hymns praise Truth (Rta) as the cosmic law that upholds the universe. Truth is the foundation of the earth, the power behind the sun, and the force that keeps the heavens in order. This teaching emphasizes that the universe operates on principles of truth and harmony, and that living in alignment with truth brings strength and stability.",
+  "interpretation_boundaries": [
+    "Depict truth as a golden pillar or foundation holding up the world",
+    "Show the sun shining through clear skies, symbolizing clarity and order",
+    "Use imagery of balance, scales, or a straight path"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

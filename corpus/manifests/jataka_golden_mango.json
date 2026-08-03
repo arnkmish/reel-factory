@@ -1,0 +1,29 @@
+{
+  "source_id": "jataka-mango-gold",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "The Golden Mango"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Generosity given with a pure heart returns in ways beyond measure.",
+  "translation_author": "Traditional (attributed to Buddhist canon)",
+  "license": "public-domain",
+  "source_url": "https://example.com/jataka/golden-mango",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A poor woodcutter finds a single golden mango glowing in the forest. Instead of keeping it, he gives it to a wandering monk who has not eaten in days. The monk blesses him and walks on. The next morning, the woodcutter's old mango tree bursts into bloom with golden fruit. Neighbors who had ignored him now come seeking favors. The woodcutter shares freely, but notices that the golden fruit only grows on branches he tends with care — not on those others try to take by force. The lesson: generosity given freely multiplies, but what is taken by greed withers.",
+  "interpretation_boundaries": [
+    "Do not depict the monk as a specific historical Buddha figure — keep him as a generic wandering ascetic",
+    "Keep the mango metaphor symbolic, not literal deity imagery",
+    "Focus on the generosity lesson, avoid doctrinal Buddhist claims"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": ["corpus-v1-editorial"],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

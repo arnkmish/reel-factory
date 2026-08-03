@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-miser",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Miser"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Wealth unused is wealth unowned; money is only worth what it can do for you.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MISER sold all that he had and bought a lump of gold, which he buried in a hole in the ground by the side of an old wall and went to look at daily. One of his workmen observed his frequent visits to the spot and decided to watch his movements. He soon discovered the secret of the hidden treasure, and digging down, came to the lump of gold, and stole it. The Miser, on his next visit, found the hole empty and began to tear his hair and to make loud lamentations. A neighbor, seeing him overcome with grief and learning the cause, said, “Pray do not grieve so; but go and take a stone, and place it in the hole, and fancy that the gold is still lying there. It will do you quite the same service; for when the gold was there, you had it not, as you did not make the slightest use of it.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

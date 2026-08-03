@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-oxen-and-the-axle-trees",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Oxen and the Axle-Trees"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Those who complain loudest are often not the ones doing the work.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HEAVY WAGON was being dragged along a country lane by a team of Oxen. The Axle-trees groaned and creaked terribly; whereupon the Oxen, turning round, thus addressed the wheels: “Hullo there!. why do you make so much noise? We bear all the labor, and we, not you, ought to cry out.”\n\nThose who suffer most cry out the least.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

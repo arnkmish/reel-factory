@@ -1,0 +1,31 @@
+{
+  "source_id": "upanishad-kena-mind",
+  "tradition": "Hindu Scripture",
+  "work": "Kena Upanishad",
+  "location": {
+    "story": "Kena Upanishad"
+  },
+  "source_language": "Sanskrit",
+  "approved_translation": "That which the mind cannot comprehend, but by which the mind thinks\u2014know that alone is Brahman, not what people worship as an object.",
+  "translation_author": "Swami Paramananda (trans.)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/3283",
+  "content_type": "teaching",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "The Kena Upanishad explores the nature of the Ultimate Reality that lies beyond the grasp of the senses and mind. The mind cannot reach it, yet it is the power behind the mind. The eye cannot see it, yet it is the power behind sight. It is the invisible source of all perception.",
+  "interpretation_boundaries": [
+    "Show a figure meditating with eyes closed, while luminous awareness radiates outward",
+    "Use imagery of a candle flame that illuminates but is not the light itself",
+    "Keep abstract and cosmic, suggesting the transcendent beyond form"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

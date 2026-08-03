@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-man-and-his-two-sweethearts",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Man and His Two Sweethearts"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Those who try to please everyone end up pleasing no one.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MIDDLE-AGED MAN, whose hair had begun to turn gray, courted two women at the same time. One of them was young, and the other well advanced in years. The elder woman, ashamed to be courted by a man younger than herself, made a point, whenever her admirer visited her, to pull out some portion of his black hairs. The younger, on the contrary, not wishing to become the wife of an old man, was equally zealous in removing every gray hair she could find. Thus it came to pass that between them both he very soon found that he had not a hair left on his head. Those who seek to please everybody please nobody.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

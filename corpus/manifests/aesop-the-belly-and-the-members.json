@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-belly-and-the-members",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Belly and the Members"
+  },
+  "source_language": "Greek",
+  "approved_translation": "All parts of a community must work together; none can survive alone.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "THE MEMBERS of the Body rebelled against the Belly, and said, “Why should we be perpetually engaged in administering to your wants, while you do nothing but take your rest, and enjoy yourself in luxury and self-indulgence?” The Members carried out their resolve and refused their assistance to the Belly. The whole Body quickly became debilitated, and the hands, feet, mouth, and eyes, when too late, repented of their folly.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

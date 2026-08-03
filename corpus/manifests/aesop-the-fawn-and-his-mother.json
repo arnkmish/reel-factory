@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-fawn-and-his-mother",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Fawn and His Mother"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Physical advantages mean nothing without courage.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A YOUNG FAWN once said to his Mother, “You are larger than a dog, and swifter, and more used to running, and you have your horns as a defense; why, then, O Mother!. do the hounds frighten you so?” She smiled, and said: “I know full well, my son, that all you say is true. I have the advantages you mention, but when I hear even the bark of a single dog I feel ready to faint, and fly away as fast as I can.”\n\nNo arguments will give courage to the coward.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

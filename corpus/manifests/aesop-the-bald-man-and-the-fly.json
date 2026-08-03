@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bald-man-and-the-fly",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bald Man and the Fly"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not destroy yourself to get revenge on a small nuisance; proportion your response.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A FLY bit the bare head of a Bald Man who, endeavoring to destroy it, gave himself a heavy slap. Escaping, the Fly said mockingly, “You who have wished to revenge, even with death, the Prick of a tiny insect, see what you have done to yourself to add insult to injury?” The Bald Man replied, “I can easily make peace with myself, because I know there was no intention to hurt. But you, an ill-favoured and contemptible insect who delights in sucking human blood, I wish that I could have killed you even if I had incurred a heavier penalty.”",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

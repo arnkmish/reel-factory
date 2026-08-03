@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-lioness",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Lioness"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Quality matters more than quantity.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CONTROVERSY prevailed among the beasts of the field as to which of the animals deserved the most credit for producing the greatest number of whelps at a birth. They rushed clamorously into the presence of the Lioness and demanded of her the settlement of the dispute. “And you,” they said, “how many sons have you at a birth?” The Lioness laughed at them, and said: “Why! I have only one; but that one is altogether a thoroughbred Lion.”\n\nThe value is in the worth, not in the number.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

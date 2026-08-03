@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-man-and-the-lion",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Man and the Lion"
+  },
+  "source_language": "Greek",
+  "approved_translation": "A story is told from the perspective of the teller.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A MAN and a Lion traveled together through the forest. They soon began to boast of their respective superiority to each other in strength and prowess. As they were disputing, they passed a statue carved in stone, which represented “a Lion strangled by a Man.” The traveler pointed to it and said: “See there!. How strong we are, and how we prevail over even the king of beasts.” The Lion replied: “This statue was made by one of you men. If we Lions knew how to erect statues, you would see the Man placed under the paw of the Lion.”\n\nOne story is good, till another is told.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

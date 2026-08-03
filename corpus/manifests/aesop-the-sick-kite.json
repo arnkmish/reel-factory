@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-sick-kite",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Sick Kite"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not ask others for what you yourself have not given.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A KITE, sick unto death, said to his mother: “O Mother!. do not mourn, but at once invoke the gods that my life may be prolonged.” She replied, “Alas!. my son, which of the gods do you think will pity you? Is there one whom you have not outraged by filching from their very altars a part of the sacrifice offered up to them?”\n\nWe must make friends in prosperity if we would have their help in adversity.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

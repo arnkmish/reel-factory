@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-jackdaw-and-the-fox",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Jackdaw and the Fox"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not try to rise above your station by tricks; a fall is the reward of vanity.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HALF-FAMISHED JACKDAW seated himself on a fig-tree, which had produced some fruit entirely out of season, and waited in the hope that the figs would ripen. A Fox seeing him sitting so long and learning the reason of his doing so, said to him, “You are indeed, sir, sadly deceiving yourself; you are indulging a hope strong enough to cheat you, but which will never reward you with enjoyment.” A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

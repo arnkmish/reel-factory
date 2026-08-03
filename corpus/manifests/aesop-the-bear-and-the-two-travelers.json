@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-bear-and-the-two-travelers",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Bear and the Two Travelers"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Misfortune tests the sincerity of friends.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "TWO MEN were traveling together, when a Bear suddenly met them on their path. One of them climbed up quickly into a tree and concealed himself in the branches. “He gave me this advice,” his companion replied. “Never travel with a friend who deserts you at the approach of danger.”\n\nMisfortune tests the sincerity of friends.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

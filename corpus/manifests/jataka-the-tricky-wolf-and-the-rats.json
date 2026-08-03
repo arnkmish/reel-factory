@@ -1,0 +1,31 @@
+{
+  "source_id": "jataka-the-tricky-wolf-and-the-rats",
+  "tradition": "Buddhist Teaching",
+  "work": "Jataka Tales",
+  "location": {
+    "story": "The Tricky Wolf And The Rats"
+  },
+  "source_language": "Pali",
+  "approved_translation": "Deceit is eventually exposed; the cunning are undone by their own tricks.",
+  "translation_author": "Ellen C. Babbitt (retold from traditional sources)",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/7518",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "Once upon a time a Big Rat lived in the forest, and many hundreds of other Rats called him their Chief. A Tricky Wolf saw this troop of Rats, and began to plan how he could catch them. He bit the Wolf, so that he died. And ever after the Rats lived happily in peace and quiet.",
+  "interpretation_boundaries": [
+    "Do not depict specific historical Buddha figures — keep characters as generic animals or people",
+    "Focus on the moral lesson, avoid doctrinal Buddhist claims",
+    "Keep animal characters naturalistic, not anthropomorphic"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

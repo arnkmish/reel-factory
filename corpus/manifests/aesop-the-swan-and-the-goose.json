@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-swan-and-the-goose",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Swan and the Goose"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not destroy what is valuable out of ignorance; talent revealed at the last moment saves.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A CERTAIN rich man bought in the market a Goose and a Swan. He fed the one for his table and kept the other for the sake of its song. When the time came for killing the Goose, the cook went to get him at night, when it was dark, and he was not able to distinguish one bird from the other. By mistake he caught the Swan instead of the Goose. The Swan, threatened with death, burst forth into song and thus made himself known by his voice, and preserved his life by his melody.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

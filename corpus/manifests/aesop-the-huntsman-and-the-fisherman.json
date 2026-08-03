@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-huntsman-and-the-fisherman",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Huntsman and the Fisherman"
+  },
+  "source_language": "Greek",
+  "approved_translation": "Do not pursue a craft for which you lack the natural tools.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "A HUNTSMAN, returning with his dogs from the field, fell in by chance with a Fisherman who was bringing home a basket well laden with fish. The Huntsman wished to have the fish, and their owner experienced an equal longing for the contents of the game-bag. They quickly agreed to exchange the produce of their day’s sport. Each was so well pleased with his bargain that they made for some time the same exchange day after day. Finally a neighbor said to them, “If you go on in this way, you will soon destroy by frequent use the pleasure of your exchange, and each will again wish to retain the fruits of his own sport.”\n\nAbstain and enjoy. A timeless lesson from Aesop's fables.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}

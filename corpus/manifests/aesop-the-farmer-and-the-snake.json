@@ -1,0 +1,30 @@
+{
+  "source_id": "aesop-the-farmer-and-the-snake",
+  "tradition": "Greek Fable",
+  "work": "Aesop's Fables",
+  "location": {
+    "story": "The Farmer and the Snake"
+  },
+  "source_language": "Greek",
+  "approved_translation": "No good deed goes unpunished when done for a wicked creature.",
+  "translation_author": "Aesop (attributed), trans. George Fyler Townsend",
+  "license": "public-domain",
+  "source_url": "https://www.gutenberg.org/ebooks/21",
+  "content_type": "fable",
+  "allowed_use": [
+    "paraphrase",
+    "short_quote"
+  ],
+  "context_summary": "ONE WINTER a Farmer found a Snake stiff and frozen with cold. He had compassion on it, and taking it up, placed it in his bosom. The Snake was quickly revived by the warmth, and resuming its natural instincts, bit its benefactor, inflicting on him a mortal wound. “Oh,” cried the Farmer with his last breath, “I am rightly served for pitying a scoundrel.”\n\nThe greatest kindness will not bind the ungrateful.",
+  "interpretation_boundaries": [
+    "Keep animals as naturalistic, not anthropomorphic",
+    "Focus on the moral lesson, not on violent or graphic details"
+  ],
+  "sensitivity_flags": [],
+  "depiction_policy": "symbolic-preferred",
+  "verified_by": [
+    "corpus-v1-editorial"
+  ],
+  "corpus_version": "2026-07-01",
+  "risk_tier": "low"
+}
