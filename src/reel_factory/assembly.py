@@ -18,6 +18,47 @@ from reel_factory.models import (
 )
 
 
+# ── Cross-platform font resolution ─────────────────────────
+
+_FONT_CANDIDATES = [
+    # Linux (DejaVu)
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    # macOS system fonts
+    "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+    "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    # Homebrew Linux-style paths on macOS
+    "/opt/homebrew/share/fonts/dejavu-fonts-ttf-2.37/ttf/DejaVuSans-Bold.ttf",
+    # Windows
+    "C:/Windows/Fonts/arialbd.ttf",
+    "C:/Windows/Fonts/arial.ttf",
+]
+
+
+def _find_font(bold: bool = True) -> Optional[str]:
+    """Find a usable system font for text overlays. Cross-platform."""
+    # Try candidates in order — bold first if requested
+    candidates = _FONT_CANDIDATES if bold else list(reversed(_FONT_CANDIDATES))
+    for path in candidates:
+        if Path(path).exists():
+            return path
+    return None
+
+
+def _get_font(size: int, bold: bool = True):
+    """Load a font at the given size, falling back to Pillow default."""
+    from PIL import ImageFont
+
+    font_path = _find_font(bold=bold)
+    if font_path:
+        try:
+            return ImageFont.truetype(font_path, size)
+        except Exception:
+            pass
+    return ImageFont.load_default()
+
+
 class AssemblyPipeline:
     """Assembles the final video from static images + per-scene audio."""
 
@@ -37,7 +78,7 @@ class AssemblyPipeline:
         bg_alpha: int = 160,
     ) -> Path:
         """Render a semi-transparent text overlay PNG using Pillow."""
-        from PIL import Image, ImageDraw, ImageFont
+        from PIL import Image, ImageDraw
 
         base = Image.new("RGBA", (width, height), (0, 0, 0, 0))
         draw = ImageDraw.Draw(base)
@@ -49,13 +90,7 @@ class AssemblyPipeline:
             fill=(0, 0, 0, bg_alpha),
         )
 
-        font_size = 56
-        try:
-            font = ImageFont.truetype(
-                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", font_size
-            )
-        except Exception:
-            font = ImageFont.load_default()
+        font = _get_font(56, bold=True)
 
         max_chars_per_line = 22
         words = text.split()
@@ -80,7 +115,7 @@ class AssemblyPipeline:
                 bbox = draw.textbbox((0, 0), ln, font=font)
                 line_heights.append(bbox[3] - bbox[1])
             except Exception:
-                line_heights.append(font_size)
+                line_heights.append(56)
         total_text_h = sum(line_heights) + line_spacing * (len(lines) - 1)
         y = band_top + (band_bottom - band_top - total_text_h) // 2
 
@@ -89,11 +124,11 @@ class AssemblyPipeline:
                 bbox = draw.textbbox((0, 0), ln, font=font)
                 tw = bbox[2] - bbox[0]
             except Exception:
-                tw = font_size * len(ln) // 2
+                tw = 56 * len(ln) // 2
             x = (width - tw) // 2
             draw.text((x + 2, y + 2), ln, fill=(0, 0, 0, 200), font=font)
             draw.text((x, y), ln, fill=(255, 255, 255, 255), font=font)
-            y += (line_heights[0] if line_heights else font_size) + line_spacing
+            y += (line_heights[0] if line_heights else 56) + line_spacing
 
         out_path = self.overlays_dir / f"overlay_{abs(hash(text)) % 1000000}.png"
         base.save(out_path, "PNG")
@@ -138,18 +173,13 @@ class AssemblyPipeline:
         duration: float = 3.0,
     ) -> str:
         """Create a simple end-card clip showing the source credit."""
-        from PIL import Image, ImageDraw, ImageFont
+        from PIL import Image, ImageDraw
 
         width, height = 1080, 1920
         img = Image.new("RGB", (width, height), (10, 10, 20))
         draw = ImageDraw.Draw(img)
 
-        try:
-            font = ImageFont.truetype(
-                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 64
-            )
-        except Exception:
-            font = ImageFont.load_default()
+        font = _get_font(64, bold=True)
 
         max_chars = 24
         words = source_credit.split()
@@ -188,12 +218,7 @@ class AssemblyPipeline:
             draw.text((x, y), ln, fill=(255, 215, 0, 255), font=font)
             y += (line_heights[0] if line_heights else 64) + line_spacing
 
-        try:
-            small_font = ImageFont.truetype(
-                "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 40
-            )
-        except Exception:
-            small_font = ImageFont.load_default()
+        small_font = _get_font(40, bold=False)
         sub_text = "Subscribe for more wisdom"
         try:
             bbox = draw.textbbox((0, 0), sub_text, font=small_font)
@@ -256,9 +281,12 @@ class AssemblyPipeline:
         if audio.local_path and Path(audio.local_path).exists():
             return audio.local_path
         if audio.output_url:
+            # Try common extensions
+            for ext in (".mp3", ".wav"):
+                tmp = self.workdir / f"narration_{audio.scene_id}{ext}"
+                if tmp.exists():
+                    return str(tmp)
             tmp = self.workdir / f"narration_{audio.scene_id}.mp3"
-            if tmp.exists():
-                return str(tmp)
             try:
                 urllib.request.urlretrieve(audio.output_url, tmp)
                 return str(tmp)

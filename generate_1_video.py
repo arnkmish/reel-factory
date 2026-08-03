@@ -3,6 +3,11 @@
 Generate a SINGLE children's moral story video and upload to Google Drive.
 Uses the same pipeline as generate_5_videos.py but produces just 1 video.
 
+DEPRECATED: This standalone script is superseded by the library CLI:
+    reel-factory run-daily --date YYYY-MM-DD --source-id <id>
+
+It is kept for backward compatibility with existing batch workflows.
+
 Usage:
     export FAL_KEY="..."
     export TTS_VOICE="af_nova"  # optional
@@ -19,8 +24,9 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Add the project src to path
-sys.path.insert(0, "/opt/data/VideoGeneratorBusinessRepo/src")
+# Auto-detect project root (parent of this file's directory)
+_PROJECT_ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(_PROJECT_ROOT / "src"))
 
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
@@ -29,14 +35,14 @@ from googleapiclient.http import MediaFileUpload
 from reel_factory.fal_gateway import FalGateway
 
 # ─── CONFIG ───
-BATCH_NUMBER = Path("/opt/data/VideoGeneratorBusinessRepo/runtime/batch_counter.txt")
+BATCH_NUMBER = _PROJECT_ROOT / "runtime" / "batch_counter.txt"
 if BATCH_NUMBER.exists():
     batch_num = int(BATCH_NUMBER.read_text().strip()) + 1
 else:
     batch_num = 1
 BATCH_NUMBER.write_text(str(batch_num))
 
-WORKDIR = Path(f"/opt/data/VideoGeneratorBusinessRepo/runtime/output/single_{batch_num}")
+WORKDIR = _PROJECT_ROOT / f"runtime/output/single_{batch_num}"
 WORKDIR.mkdir(parents=True, exist_ok=True)
 
 # ByteDance Seed Speech TTS — Available voices:
@@ -59,7 +65,7 @@ if not FAL_KEY:
     print("ERROR: FAL_KEY not set")
     sys.exit(1)
 
-USED_ITEMS_PATH = Path("/opt/data/VideoGeneratorBusinessRepo/runtime/used_items.json")
+USED_ITEMS_PATH = _PROJECT_ROOT / "runtime" / "used_items.json"
 
 # ─── ITEM TRACKING ───
 def load_used_items() -> set:
@@ -79,7 +85,7 @@ def save_used_items(new_ids: list):
 
 # ─── GOOGLE DRIVE SETUP ───
 def get_drive_service():
-    token_path = Path("/opt/data/google_token.json")
+    token_path = Path(os.getenv("GOOGLE_TOKEN_PATH", str(_PROJECT_ROOT / "secrets" / "google_token.json")))
     with open(token_path) as f:
         token_data = json.load(f)
     creds = Credentials(
@@ -509,7 +515,7 @@ def assemble_video(images, audio_clips, script, output_path):
 
 # ─── MAIN ───
 def main():
-    manifests_dir = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/manifests")
+    manifests_dir = _PROJECT_ROOT / "corpus" / "manifests"
     all_manifests = sorted(manifests_dir.glob("*.json"))
     print(f"Discovered {len(all_manifests)} total manifests")
     

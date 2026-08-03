@@ -2,6 +2,11 @@
 """
 Generate 5 spiritual wisdom videos and upload to Google Drive.
 Uses the Reel Factory pipeline.
+
+DEPRECATED: This standalone script is superseded by the library CLI:
+    reel-factory run-daily --date YYYY-MM-DD
+
+It is kept for backward compatibility with existing batch workflows.
 """
 
 import json
@@ -14,8 +19,9 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-# Add the project src to path
-sys.path.insert(0, "/opt/data/VideoGeneratorBusinessRepo/src")
+# Auto-detect project root (parent of this file's directory)
+_PROJECT_ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(_PROJECT_ROOT / "src"))
 
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
@@ -28,13 +34,13 @@ from reel_factory.models import (
 )
 
 # ─── CONFIG ───
-BATCH_NUMBER = Path("/opt/data/VideoGeneratorBusinessRepo/runtime/batch_counter.txt")
+BATCH_NUMBER = _PROJECT_ROOT / "runtime" / "batch_counter.txt"
 if BATCH_NUMBER.exists():
     batch_num = int(BATCH_NUMBER.read_text().strip()) + 1
 else:
     batch_num = 6  # First new batch after batch_5
 BATCH_NUMBER.write_text(str(batch_num))
-WORKDIR = Path(f"/opt/data/VideoGeneratorBusinessRepo/runtime/output/batch_{batch_num}")
+WORKDIR = _PROJECT_ROOT / f"runtime/output/batch_{batch_num}"
 WORKDIR.mkdir(parents=True, exist_ok=True)
 
 # Kokoro TTS — American English Voice Options (19 total):
@@ -67,7 +73,7 @@ TTS_SPEED = float(os.getenv("TTS_SPEED", "0.85"))
 FAL_KEY = os.getenv("FAL_KEY")
 
 # Track used items to avoid reusing them in future batches
-USED_ITEMS_PATH = Path("/opt/data/VideoGeneratorBusinessRepo/runtime/used_items.json")
+USED_ITEMS_PATH = _PROJECT_ROOT / "runtime" / "used_items.json"
 
 FAL_KEY = os.getenv("FAL_KEY")
 if not FAL_KEY:
@@ -94,7 +100,7 @@ def save_used_items(new_ids: list):
 
 # ─── GOOGLE DRIVE SETUP ───
 def get_drive_service():
-    token_path = Path("/opt/data/google_token.json")
+    token_path = Path(os.getenv("GOOGLE_TOKEN_PATH", str(_PROJECT_ROOT / "secrets" / "google_token.json")))
     with open(token_path) as f:
         token_data = json.load(f)
     creds = Credentials(
@@ -609,7 +615,7 @@ def assemble_video(images, audio_clips, script, output_path):
 # ─── MAIN ───
 def main():
     # Load corpus items — discover ALL manifests, then shuffle by source-type mixing
-    manifests_dir = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/manifests")
+    manifests_dir = _PROJECT_ROOT / "corpus" / "manifests"
     
     # 1. Read every manifest and group by tradition
     all_manifests = sorted(manifests_dir.glob("*.json"))

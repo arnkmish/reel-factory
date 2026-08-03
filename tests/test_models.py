@@ -2,7 +2,7 @@ import pytest
 from reel_factory.models import (
     CorpusItem, SelectionCandidate, ScriptScene, ScriptPackage,
     StoryboardScene, StoryboardPackage, GeneratedImageAsset,
-    GeneratedClipAsset, GeneratedAudioAsset, ReviewIssue, ReviewResult,
+    GeneratedAudioAsset, ReviewIssue, ReviewResult,
     StageAttempt, JobRecord, DriveManifest, SheetsRow,
     QuoteMode, RiskTier, Severity, JobStatus
 )
@@ -111,6 +111,8 @@ def test_job_record_defaults():
     assert job.max_cost_budget == 5.0
     assert job.used_best_so_far_fallback is False
     assert job.total_cost == 0.0
+    assert job.images == []  # v2: no clips field anymore
+    assert job.audio == []
 
 
 def test_job_record_cost_budget():
@@ -125,7 +127,6 @@ def test_drive_manifest():
         status="ARCHIVED_TO_DRIVE",
         scene_count=5,
         image_count=5,
-        clip_count=5,
         total_cost=3.50
     )
     assert manifest.status == "ARCHIVED_TO_DRIVE"

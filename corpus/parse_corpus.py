@@ -10,8 +10,9 @@ import re
 import textwrap
 from pathlib import Path
 
-MANIFESTS_DIR = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/manifests")
-SOURCE_DIR = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/source_texts")
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+MANIFESTS_DIR = _PROJECT_ROOT / "corpus" / "manifests"
+SOURCE_DIR = _PROJECT_ROOT / "corpus" / "source_texts"
 
 # Existing files to NOT overwrite
 PROTECTED_FILES = {

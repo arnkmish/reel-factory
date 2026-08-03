@@ -14,7 +14,8 @@ import os
 import glob
 from pathlib import Path
 
-MANIFESTS_DIR = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/manifests")
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+MANIFESTS_DIR = _PROJECT_ROOT / "corpus" / "manifests"
 
 # Curated morals for well-known Aesop fables (by source_id)
 AESOP_KNOWN_MORALS = {

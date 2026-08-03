@@ -1,6 +1,7 @@
 """
 SQLite-backed state store for production jobs.
 Persists job records, stage attempts, and run events.
+v2: clips table removed — no video generation.
 """
 from __future__ import annotations
 
@@ -13,7 +14,7 @@ from typing import Any, Dict, List, Optional
 from reel_factory.models import (
     JobRecord, JobStatus, StageAttempt, ReviewResult,
     SelectionCandidate, ScriptPackage, StoryboardPackage,
-    GeneratedImageAsset, GeneratedClipAsset, GeneratedAudioAsset,
+    GeneratedImageAsset, GeneratedAudioAsset,
 )
 
 
@@ -92,25 +93,6 @@ class StateStore:
                 local_path TEXT,
                 drive_path TEXT,
                 cost REAL NOT NULL DEFAULT 0.0,
-                FOREIGN KEY (job_id) REFERENCES jobs(job_id)
-            );
-
-            CREATE TABLE IF NOT EXISTS clips (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                job_id TEXT NOT NULL,
-                scene_id TEXT NOT NULL,
-                attempt INTEGER NOT NULL,
-                source_image_url TEXT,
-                endpoint TEXT,
-                model_version TEXT,
-                motion_prompt TEXT,
-                seed INTEGER,
-                request_id TEXT,
-                output_url TEXT,
-                local_path TEXT,
-                drive_path TEXT,
-                cost REAL NOT NULL DEFAULT 0.0,
-                duration REAL NOT NULL DEFAULT 0.0,
                 FOREIGN KEY (job_id) REFERENCES jobs(job_id)
             );
 
@@ -261,25 +243,6 @@ class StateStore:
                 image.prompt, image.seed, image.request_id,
                 image.output_url, image.local_path,
                 image.drive_path, image.cost,
-            ),
-        )
-        conn.commit()
-
-    def record_clip(self, job_id: str, clip: GeneratedClipAsset) -> None:
-        conn = self.connect()
-        conn.execute(
-            """INSERT INTO clips
-               (job_id, scene_id, attempt, source_image_url,
-                endpoint, model_version, motion_prompt, seed,
-                request_id, output_url, local_path, drive_path,
-                cost, duration)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
-            (
-                job_id, clip.scene_id, clip.attempt,
-                clip.source_image_url, clip.endpoint,
-                clip.model_version, clip.motion_prompt, clip.seed,
-                clip.request_id, clip.output_url, clip.local_path,
-                clip.drive_path, clip.cost, clip.duration,
             ),
         )
         conn.commit()

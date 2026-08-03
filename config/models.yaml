@@ -3,11 +3,21 @@ image:
   primary:
     endpoint: "fal-ai/qwen-image-2/text-to-image"
     role: "high_quality_vertical_generation"
+  edit:
+    endpoint: "fal-ai/qwen-image-edit-2511"
+    role: "character_consistency_editing"
 
 speech:
-  primary:
+  # Default TTS backend — see config/app.yaml tts.backend to switch.
+  kokoro:
+    endpoint: "fal-ai/kokoro/american-english"
+    role: "default_narration"
+  minimax:
     endpoint: "fal-ai/minimax/speech-2.8-hd"
-    role: "multilingual_narration"
+    role: "expressive_narration"
+  seed:
+    endpoint: "fal-ai/bytedance/seed-speech/tts/v2"
+    role: "warm_storyteller_narration"
 
 review:
   source_model: "hermes-3-llama-3.1-8b"

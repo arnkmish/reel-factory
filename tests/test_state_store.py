@@ -7,7 +7,7 @@ import pytest
 from reel_factory.models import (
     JobRecord, JobStatus, StageAttempt, ReviewResult,
     SelectionCandidate, CorpusItem, ScriptScene, ScriptPackage,
-    GeneratedImageAsset, GeneratedClipAsset, GeneratedAudioAsset,
+    GeneratedImageAsset, GeneratedAudioAsset,
 )
 from reel_factory.state_store import StateStore
 
@@ -111,20 +111,6 @@ def test_record_image(store):
     store.record_image("test-008", img)
     # Verify by checking the job record still exists
     job = store.get_job("test-008")
-    assert job is not None
-
-
-def test_record_clip(store):
-    store.create_or_resume("test-009", "2026-07-23")
-    clip = GeneratedClipAsset(
-        scene_id="S01", attempt=1, source_image_url="https://example.com/img.png",
-        endpoint="fal-ai/test", model_version="v1",
-        motion_prompt="slow push", seed=42,
-        request_id="req-1", output_url="https://example.com/clip.mp4",
-        cost=0.20, duration=4.0,
-    )
-    store.record_clip("test-009", clip)
-    job = store.get_job("test-009")
     assert job is not None
 
 

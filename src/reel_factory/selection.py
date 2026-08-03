@@ -60,13 +60,19 @@ class SelectionEngine:
 
     def _load_history(self) -> None:
         """Load previously used source IDs and title hashes from history file."""
-        if self.history_path.exists():
-            with open(self.history_path, "r") as f:
-                data = json.load(f)
-                self._used_ids = set(data.get("used_ids", []))
-                self._used_title_hashes = set(data.get("used_title_hashes", []))
-                self._recent_traditions = data.get("recent_traditions", [])
-                self._usage_log = data.get("usage_log", [])
+        if self.history_path.exists() and self.history_path.stat().st_size > 0:
+            try:
+                with open(self.history_path, "r") as f:
+                    data = json.load(f)
+                    self._used_ids = set(data.get("used_ids", []))
+                    self._used_title_hashes = set(data.get("used_title_hashes", []))
+                    self._recent_traditions = data.get("recent_traditions", [])
+                    self._usage_log = data.get("usage_log", [])
+            except (json.JSONDecodeError, OSError):
+                self._used_ids = set()
+                self._used_title_hashes = set()
+                self._recent_traditions = []
+                self._usage_log = []
         else:
             self._used_ids = set()
             self._used_title_hashes = set()

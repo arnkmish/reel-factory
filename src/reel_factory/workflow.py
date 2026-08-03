@@ -17,7 +17,7 @@ from reel_factory.models import (
     JobRecord, JobStatus, ReviewResult, StageAttempt, ReviewIssue, Severity,
     SelectionCandidate, CorpusItem, ScriptPackage, ScriptScene,
     StoryboardPackage, StoryboardScene, QuoteMode,
-    GeneratedImageAsset, GeneratedClipAsset, GeneratedAudioAsset,
+    GeneratedImageAsset, GeneratedAudioAsset,
     DriveManifest, SheetsRow,
 )
 from reel_factory.state_store import StateStore
@@ -116,12 +116,15 @@ Respond with valid JSON only, in this exact schema:
 
 _STORYBOARD_SYSTEM_CONTEXT = """\
 You are a storyboard artist for short vertical spiritual wisdom videos.
-You create visual directions for AI image generation (FLUX Schnell) and video generation (Kling).
-Each scene gets a specific image prompt and motion prompt.
+You create visual directions for AI image generation (Qwen Image 2).
+Each scene gets a specific image prompt.
 The visuals must match the actual story content — if the story has a lion and a mouse,
 the images must show a lion and a mouse, not generic landscapes.
 Style: minimal symbolic spiritual illustration, 9:16 vertical.
 Do NOT include text in the images — text will be overlaid separately.
+For character consistency: Scene 1 gets a full generation prompt. Scenes 2+ get
+edit instructions describing what changed from the previous scene while keeping
+the SAME characters with the SAME appearance, clothes, and colors.
 """
 
 _STORYBOARD_PROMPT_TEMPLATE = """\
@@ -135,9 +138,13 @@ Final moral: {final_moral}
 
 Requirements:
 - Each scene's image_prompt must visually match what happens in that scene's narration
+- S01: Write a FULL description for generating from scratch (include all characters, setting, style)
+- S02-S05: Write an EDIT instruction describing what changed from the previous scene.
+  Keep the SAME characters with the SAME appearance, clothes, and colors.
+  Only describe the new pose, action, or background change.
+- CRITICAL: All 5 scenes must show THE SAME main characters with CONSISTENT appearance
 - Use specific, descriptive prompts (mention characters, actions, settings from the story)
 - Style: minimal symbolic spiritual illustration, warm colors, 9:16 vertical
-- motion_prompt: describe subtle camera movement for a 5-second video clip
 - No text in images
 
 Respond with valid JSON only, in this exact schema:
@@ -152,8 +159,7 @@ Respond with valid JSON only, in this exact schema:
       "camera": "string (e.g., 'wide', 'medium', 'close-up')",
       "palette": ["color1", "color2", "color3"],
       "symbols": ["symbolic elements"],
-      "image_prompt": "detailed prompt for FLUX image generation, 9:16 vertical, no text",
-      "motion_prompt": "subtle motion description for Kling video generation",
+      "image_prompt": "detailed prompt for image generation, 9:16 vertical, no text",
       "text_safe_zone": "upper_center"
     }}
   ],
@@ -178,7 +184,6 @@ def _build_script_from_hermes(
     )
     data = hermes.generate_structured(prompt, system_context=_SCRIPT_SYSTEM_CONTEXT)
 
-    # Build ScriptPackage from the Hermes response
     scenes = []
     for s in data.get("scenes", []):
         scenes.append(ScriptScene(
@@ -230,7 +235,6 @@ def _build_storyboard_from_hermes(
             palette=s.get("palette", []),
             symbols=s.get("symbols", []),
             image_prompt=s.get("image_prompt", ""),
-            motion_prompt=s.get("motion_prompt", ""),
             text_safe_zone=s.get("text_safe_zone", "upper_center"),
         ))
 
@@ -340,7 +344,6 @@ def _review_script(script: ScriptPackage) -> ReviewResult:
 
     # Check total narration length is sufficient for the video duration
     total_narration_chars = sum(len(s.narration or "") for s in script.scenes) + len(script.final_moral or "")
-    # Roughly 15 chars per second of speech
     expected_chars = script.duration_seconds * 15
     narration_length_ok = total_narration_chars >= expected_chars * 0.7
     dimension_scores["narration_length"] = 9.0 if narration_length_ok else 5.0
@@ -355,7 +358,6 @@ def _review_script(script: ScriptPackage) -> ReviewResult:
     blocking = [i for i in issues if i.severity == Severity.blocking]
     non_blocking = [i for i in issues if i.severity == Severity.non_blocking]
 
-    # Overall score: average of dimension scores
     overall = sum(dimension_scores.values()) / max(len(dimension_scores), 1)
     passed = len(blocking) == 0 and overall >= 7.0
 
@@ -386,7 +388,6 @@ def _review_image_set(images: List[GeneratedImageAsset], storyboard: StoryboardP
     issues: List[ReviewIssue] = []
     dimension_scores: Dict[str, float] = {}
 
-    # Check all scenes have images
     scene_ids = {s.scene_id for s in storyboard.scenes}
     image_scene_ids = {img.scene_id for img in images}
     missing = scene_ids - image_scene_ids
@@ -400,7 +401,6 @@ def _review_image_set(images: List[GeneratedImageAsset], storyboard: StoryboardP
             fix="Regenerate image for this scene",
         ))
 
-    # Check no duplicate URLs
     urls = [img.output_url for img in images if img.output_url]
     duplicates = len(urls) != len(set(urls))
     dimension_scores["image_uniqueness"] = 4.0 if duplicates else 9.0
@@ -412,9 +412,6 @@ def _review_image_set(images: List[GeneratedImageAsset], storyboard: StoryboardP
             fix="Regenerate with different seeds for each scene",
         ))
 
-    # Note: actual anatomical/visual review requires a VLM.
-    # For v1, this stub only checks structural properties.
-    # The plan calls for a vision-capable reviewer in later phases.
     dimension_scores["visual_quality"] = 7.0  # neutral — needs VLM to assess properly
 
     blocking = [i for i in issues if i.severity == Severity.blocking]
@@ -451,15 +448,45 @@ class WorkflowOrchestrator:
         )
         self.gateway = FalGateway()
         self.hermes = HermesClient()
-        self.image_pipeline = ImagePipeline(self.gateway)
-        self.audio_pipeline = AudioPipeline(self.gateway, workdir=str(self.workdir / "runtime" / "output"))
-        self.assembly = AssemblyPipeline(self.workdir / "runtime" / "output")
+
+        # Read TTS config from app.yaml
+        tts_backend = config.get("app.tts.backend", "kokoro")
+        tts_voice = config.get("app.tts.voice", "af_nova")
+        tts_speed = float(config.get("app.tts.speed", 0.85))
+        tts_endpoint = config.get(
+            f"speech.{tts_backend}.endpoint",
+            "fal-ai/kokoro/american-english",
+        )
+
+        # Read image config
+        image_endpoint = config.get("image.primary.endpoint", "fal-ai/qwen-image-2/text-to-image")
+        edit_endpoint = config.get("image.edit.endpoint", "fal-ai/qwen-image-edit-2511")
+        character_consistency = config.get("app.image.character_consistency", True)
+
+        output_dir = str(self.workdir / "runtime" / "output")
+
+        self.image_pipeline = ImagePipeline(
+            self.gateway,
+            endpoint=image_endpoint,
+            edit_endpoint=edit_endpoint,
+            character_consistency=character_consistency,
+            workdir=output_dir,
+        )
+        self.audio_pipeline = AudioPipeline(
+            self.gateway,
+            tts_endpoint=tts_endpoint,
+            tts_backend=tts_backend,
+            voice=tts_voice,
+            speed=tts_speed,
+            workdir=output_dir,
+        )
+        self.assembly = AssemblyPipeline(output_dir)
         self.drive = DriveClient()
         self.sheets = SheetsClient()
 
     def run_daily(self, run_date: str, dry_run: bool = False, source_id: str = None) -> JobRecord:
         """Execute the full daily production workflow.
-        
+
         Args:
             source_id: If provided, force selection of this specific corpus item
                         (bypasses the selection engine and history check).
@@ -475,7 +502,6 @@ class WorkflowOrchestrator:
             self.state.mark_status(job_id, JobStatus.source_selected)
 
             if dry_run:
-                # Use a mock candidate for dry runs
                 item = CorpusItem(
                     source_id="dry-run-sample",
                     tradition="Sample",
@@ -499,14 +525,12 @@ class WorkflowOrchestrator:
             else:
                 self.corpus.load()
                 eligible = self.corpus.get_eligible()
-                
+
                 if source_id:
-                    # Force selection of a specific source
                     forced_item = next(
                         (item for item in eligible if item.source_id == source_id), None
                     )
                     if forced_item is None:
-                        # Try all items (not just eligible) in case sensitivity flags exist
                         forced_item = next(
                             (item for item in self.corpus.items if item.source_id == source_id), None
                         )
@@ -550,7 +574,6 @@ class WorkflowOrchestrator:
             script: Optional[ScriptPackage] = None
 
             if dry_run:
-                # Dry-run: use a simple hardcoded script
                 script = ScriptPackage(
                     title=f"Teaching from {candidate.corpus_item.work}",
                     hook=candidate.treatment_summary,
@@ -568,10 +591,8 @@ class WorkflowOrchestrator:
                     hashtags=["#wisdom", "#story"],
                 )
             else:
-                # Real run: generate script via Hermes, then review it
                 def generate_script_fn(feedback: Optional[str]) -> Tuple[ScriptPackage, float]:
                     if feedback:
-                        # Incorporate feedback into the prompt context
                         logger.info("script_regenerate_with_feedback", feedback=feedback[:100])
                     s = _build_script_from_hermes(self.hermes, candidate)
                     return s, 0.0
@@ -615,7 +636,6 @@ class WorkflowOrchestrator:
                             palette=["saffron", "gold", "forest green"],
                             symbols=["strength"],
                             image_prompt="A majestic lion resting in a sunlit forest clearing, warm golden light, minimal symbolic spiritual illustration, 9:16 vertical, no text",
-                            motion_prompt="Very slow camera push-in. Lion breathes subtly. No new elements.",
                         ),
                         StoryboardScene(
                             scene_id="S02",
@@ -626,8 +646,7 @@ class WorkflowOrchestrator:
                             camera="close-up",
                             palette=["warm brown", "gold", "soft green"],
                             symbols=["smallness"],
-                            image_prompt="A tiny brown mouse running across a large lion's paw in a forest, minimal symbolic spiritual illustration, 9:16 vertical, no text",
-                            motion_prompt="Very slow pan. Mouse moves subtly. No new elements.",
+                            image_prompt="A tiny brown mouse running across a large lion's paw in a forest, keep same lion appearance, minimal symbolic spiritual illustration, 9:16 vertical, no text",
                         ),
                         StoryboardScene(
                             scene_id="S03",
@@ -638,8 +657,7 @@ class WorkflowOrchestrator:
                             camera="medium",
                             palette=["gold", "warm brown", "green"],
                             symbols=["mercy"],
-                            image_prompt="A lion looking down at a small mouse with a gentle merciful expression, forest background, minimal symbolic spiritual illustration, 9:16 vertical, no text",
-                            motion_prompt="Very slow push-in. Lion's eyes move slightly. No new elements.",
+                            image_prompt="The same lion looking down at the same small mouse with a gentle merciful expression, forest background, keep same characters, minimal symbolic spiritual illustration, 9:16 vertical, no text",
                         ),
                         StoryboardScene(
                             scene_id="S04",
@@ -650,8 +668,7 @@ class WorkflowOrchestrator:
                             camera="medium-wide",
                             palette=["dark green", "brown", "rope grey"],
                             symbols=["entrapment"],
-                            image_prompt="A majestic lion trapped in a hunter's rope net in a forest, distressed, minimal symbolic spiritual illustration, 9:16 vertical, no text",
-                            motion_prompt="Very slow zoom. Lion struggles subtly. No new elements.",
+                            image_prompt="The same lion trapped in a hunter's rope net in a forest, distressed, keep same lion appearance, minimal symbolic spiritual illustration, 9:16 vertical, no text",
                         ),
                         StoryboardScene(
                             scene_id="S05",
@@ -662,8 +679,7 @@ class WorkflowOrchestrator:
                             camera="close-up",
                             palette=["gold", "warm brown", "green"],
                             symbols=["freedom", "kindness"],
-                            image_prompt="A tiny mouse gnawing through rope net to free a lion, friendship and kindness symbolism, warm light, minimal symbolic spiritual illustration, 9:16 vertical, no text",
-                            motion_prompt="Very slow push-in. Mouse gnaws subtly. No new elements.",
+                            image_prompt="The same tiny mouse gnawing through rope net to free the same lion, friendship and kindness symbolism, warm light, keep same characters, minimal symbolic spiritual illustration, 9:16 vertical, no text",
                         ),
                     ],
                     illustration_style="minimal_symbolic_spiritual",
@@ -676,11 +692,10 @@ class WorkflowOrchestrator:
             job.storyboard = storyboard
             self.state.update_job(job)
 
-            # ── Stage 4: Audio Generation (BEFORE images/video) ──
-            # Generate per-scene TTS narration first so we know exact durations
-            # for video clip generation. Audio drives the video timing.
+            # ── Stage 4: Audio Generation (BEFORE images) ──────
+            # Generate per-scene TTS narration first so we know exact durations.
+            # Audio drives the video segment timing.
             logger.info("stage_audio_generation")
-            self.state.mark_status(job_id, JobStatus.storyboard_approved)
 
             if not dry_run:
                 existing_audio = conn.execute(
@@ -714,7 +729,6 @@ class WorkflowOrchestrator:
 
             # ── Stage 5: Image Generation ─────────────────────
             logger.info("stage_image_generation")
-            self.state.mark_status(job_id, JobStatus.images_approved)
 
             if not dry_run:
                 existing_images = conn.execute(
@@ -751,9 +765,10 @@ class WorkflowOrchestrator:
                             job.fallback_stage_list.append("images")
                     self.state.update_job(job)
 
+            self.state.mark_status(job_id, JobStatus.images_approved)
+
             # ── Stage 6: Assembly (static frames + audio-aligned) ─
             logger.info("stage_assembly")
-            self.state.mark_status(job_id, JobStatus.assembled)
 
             if not dry_run and job.images:
                 output_path = self.assembly.assemble(
@@ -765,9 +780,10 @@ class WorkflowOrchestrator:
                 job.final_video_path = output_path
                 self.state.update_job(job)
 
-            # ── Stage 8: Drive Archival ────────────────────────
+            self.state.mark_status(job_id, JobStatus.assembled)
+
+            # ── Stage 7: Drive Archival ────────────────────────
             logger.info("stage_drive_archival")
-            self.state.mark_status(job_id, JobStatus.archived_to_drive)
 
             if not dry_run:
                 root_folder_id = config.get("drive.root_folder_id", "")
@@ -775,7 +791,6 @@ class WorkflowOrchestrator:
                     date_folder = self.drive.create_folder(
                         f"{run_date}_{job_id}", root_folder_id
                     )
-                    # Upload manifest
                     manifest = DriveManifest(
                         job_id=job_id,
                         run_date=run_date,
@@ -784,7 +799,6 @@ class WorkflowOrchestrator:
                         script_title=script.title,
                         scene_count=len(storyboard.scenes),
                         image_count=len(job.images),
-                        clip_count=0,
                         audio_count=len(job.audio),
                         total_cost=job.total_cost,
                         used_best_so_far=job.used_best_so_far_fallback,
@@ -795,7 +809,9 @@ class WorkflowOrchestrator:
                 else:
                     logger.info("drive_archival_skipped", reason="not_configured")
 
-            # ── Stage 9: Sheets Logging ────────────────────────
+            self.state.mark_status(job_id, JobStatus.archived_to_drive)
+
+            # ── Stage 8: Sheets Logging ────────────────────────
             logger.info("stage_sheets_logging")
 
             if not dry_run:
@@ -811,12 +827,10 @@ class WorkflowOrchestrator:
                         script_score=8.5,
                         storyboard_score=8.5,
                         image_score=8.5,
-                        shot_score=8.5,
                         final_score=8.5,
                         source_attempts=1,
                         script_attempts=1,
                         image_attempts=1,
-                        shot_attempts=1,
                         final_attempts=1,
                         used_best_so_far_fallback=job.used_best_so_far_fallback,
                         fallback_stage_list=",".join(job.fallback_stage_list),

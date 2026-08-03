@@ -1,6 +1,7 @@
 """
 Pydantic domain models for the Reel Factory workflow.
 These define the strict contracts for every stage of the pipeline.
+v2: Video clip assets removed — uses static frames + FFmpeg assembly.
 """
 from __future__ import annotations
 
@@ -34,7 +35,6 @@ class JobStatus(str, Enum):
     script_approved = "SCRIPT_APPROVED"
     storyboard_approved = "STORYBOARD_APPROVED"
     images_approved = "IMAGES_APPROVED"
-    shots_approved = "SHOTS_APPROVED"
     assembled = "ASSEMBLED"
     final_approved = "FINAL_APPROVED"
     archived_to_drive = "ARCHIVED_TO_DRIVE"
@@ -131,7 +131,7 @@ class StoryboardScene(BaseModel):
     symbols: List[str] = Field(default_factory=list)
     image_prompt: str
     negative_prompt: Optional[str] = None
-    motion_prompt: Optional[str] = None
+    motion_prompt: Optional[str] = None  # kept for API compat, unused in v2
     text_safe_zone: str = "upper_center"
     depiction_notes: List[str] = Field(default_factory=list)
 
@@ -166,26 +166,6 @@ class GeneratedImageAsset(BaseModel):
     cost: float = 0.0
     width: int = 1080
     height: int = 1920
-
-
-class GeneratedClipAsset(BaseModel):
-    """Metadata for a single generated video clip."""
-    scene_id: str
-    attempt: int = Field(ge=1, le=3)
-    source_image_url: str
-    endpoint: str
-    model_version: str
-    motion_prompt: str
-    seed: int
-    request_id: str
-    output_url: str
-    local_path: Optional[str] = None
-    drive_path: Optional[str] = None
-    cost: float = 0.0
-    duration: float = 0.0
-    width: int = 1080
-    height: int = 1920
-    fps: int = 30
 
 
 class GeneratedAudioAsset(BaseModel):
@@ -267,7 +247,6 @@ class JobRecord(BaseModel):
     script: Optional[ScriptPackage] = None
     storyboard: Optional[StoryboardPackage] = None
     images: List[GeneratedImageAsset] = Field(default_factory=list)
-    clips: List[GeneratedClipAsset] = Field(default_factory=list)
     audio: List[GeneratedAudioAsset] = Field(default_factory=list)
     final_video_path: Optional[str] = None
     drive_folder_url: Optional[str] = None
@@ -291,7 +270,6 @@ class DriveManifest(BaseModel):
     script_title: Optional[str] = None
     scene_count: int = 0
     image_count: int = 0
-    clip_count: int = 0
     audio_count: int = 0
     review_scores: Dict[str, float] = Field(default_factory=dict)
     attempt_counts: Dict[str, int] = Field(default_factory=dict)

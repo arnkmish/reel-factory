@@ -1,15 +1,17 @@
 # General Application Settings
 app:
   name: "Reel Factory"
-  version: "0.1.0"
+  version: "0.2.0"
   timezone: "Asia/Kolkata"
-  workdir: "/opt/data/VideoGeneratorBusinessRepo"
-  runtime_dir: "/opt/data/VideoGeneratorBusinessRepo/runtime"
-  
+  # workdir defaults to the project root (auto-detected by config.py).
+  # Override by setting REEL_FACTORY_WORKDIR env var or editing here.
+  # workdir: "/custom/path/to/reel-factory"
+  runtime_dir: "runtime"
+
   # V1 constraints
   publishing_enabled: false
   language: "English"
-  
+
   # Video specifications
   video:
     width: 1080
@@ -21,3 +23,16 @@ app:
     duration_max: 40
     scene_min: 5
     scene_max: 7
+
+  # TTS configuration — controls which speech backend is used.
+  # Options: "kokoro" (default, cheapest), "minimax" (expressive), "seed" (ByteDance, warm storyteller)
+  tts:
+    backend: "kokoro"
+    voice: "af_nova"
+    speed: 0.85
+
+  # Image generation — character consistency via sequential image-to-image editing.
+  # When true, scene 1 is generated from scratch and scenes 2+ edit the previous
+  # scene's image to preserve character appearance (clothes, colors, faces).
+  image:
+    character_consistency: true

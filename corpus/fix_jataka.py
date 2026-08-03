@@ -8,7 +8,8 @@ import re
 import glob
 from pathlib import Path
 
-MANIFESTS_DIR = Path("/opt/data/VideoGeneratorBusinessRepo/corpus/manifests")
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+MANIFESTS_DIR = _PROJECT_ROOT / "corpus" / "manifests"
 
 # Curated morals for Jataka tales (by source_id)
 JATAKA_MORALS = {
