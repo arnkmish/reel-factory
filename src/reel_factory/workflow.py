@@ -463,7 +463,13 @@ class WorkflowOrchestrator:
         edit_endpoint = config.get("image.edit.endpoint", "fal-ai/qwen-image-edit-2511")
         character_consistency = config.get("app.image.character_consistency", True)
 
-        output_dir = str(self.workdir / "runtime" / "output")
+        # Output directory — defaults to a dedicated folder in ~/Documents
+        # Override with REEL_FACTORY_OUTPUT_DIR env var
+        default_output = os.getenv(
+            "REEL_FACTORY_OUTPUT_DIR",
+            str(Path.home() / "Documents" / "ReelFactory"),
+        )
+        output_dir = config.get("app.output_dir", default_output)
 
         self.image_pipeline = ImagePipeline(
             self.gateway,
