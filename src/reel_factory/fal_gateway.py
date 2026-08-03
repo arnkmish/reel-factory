@@ -17,6 +17,8 @@ QWEN_IMAGE_PRICE_PER_MP = 0.02
 MINIMAX_SPEECH_PRICE_PER_CALL = 0.015
 # Kokoro TTS American English: $0.02 per 1,000 characters (~$0.0016 for 80-char clip)
 KOKORO_TTS_PRICE_PER_CHAR = 0.00002
+# ElevenLabs Eleven V3: ~$0.30 per 1,000 characters (premium expressive voices)
+ELEVEN_V3_TTS_PRICE_PER_CHAR = 0.0003
 
 
 class FalGateway:
@@ -145,11 +147,49 @@ class FalGateway:
             "speed": speed,
         }
         result = self._client().subscribe(
-            endpoint, arguments=arguments, client_timeout=120
+            endpoint, arguments=arguments, client_timeout=300
         )
         # Populate cost since fal doesn't return it
         char_count = len(text)
         result["cost"] = round(char_count * KOKORO_TTS_PRICE_PER_CHAR, 6)
+        return result
+
+    def generate_speech_eleven_v3(
+        self,
+        text: str,
+        voice: str = "Rachel",
+        stability: float = 0.5,
+        language_code: str = "en",
+        endpoint: str = "fal-ai/elevenlabs/tts/eleven-v3",
+    ) -> Dict[str, Any]:
+        """Generate speech audio using ElevenLabs Eleven V3 via fal.ai.
+
+        Eleven V3 is ElevenLabs' most expressive model — supports voice
+        cloning, emotion control, and 29+ languages.  Uses natural
+        voice names (Rachel, Aria, etc.) rather than voice IDs.
+
+        Parameters:
+            text: The text to convert to speech.
+            voice: ElevenLabs voice name (default "Rachel").
+                   Other popular voices: Aria, Domi, Belle, Michael, Elliott.
+            stability: Voice stability 0-1 (default 0.5).  Lower = more
+                       expressive/emotional, higher = more consistent.
+            language_code: ISO 639-1 language code (default "en").
+            endpoint: fal.ai endpoint (default eleven-v3).
+        """
+        arguments = {
+            "text": text,
+            "voice": voice,
+            "stability": stability,
+            "apply_text_normalization": "auto",
+        }
+        if language_code:
+            arguments["language_code"] = language_code
+        result = self._client().subscribe(
+            endpoint, arguments=arguments, client_timeout=300
+        )
+        char_count = len(text)
+        result["cost"] = round(char_count * ELEVEN_V3_TTS_PRICE_PER_CHAR, 6)
         return result
 
     # Kept for backward compatibility; not used by default
@@ -187,6 +227,43 @@ class FalGateway:
             endpoint, arguments=arguments, client_timeout=120
         )
         result["cost"] = MINIMAX_SPEECH_PRICE_PER_CALL
+        return result
+
+    def generate_speech_elevenlabs(
+        self,
+        text: str,
+        voice: str = "Rachel",
+        stability: float = 0.5,
+        similarity_boost: float = 0.75,
+        endpoint: str = "fal-ai/elevenlabs/tts/eleven-v3",
+    ) -> Dict[str, Any]:
+        """Generate speech audio using ElevenLabs TTS v3.
+
+        High-quality expressive narration. Returns MP3 audio.
+        Available voices include: Rachel, Domi, Antoni, Elli, Josh, Arnold,
+        Adam, Sam, Bella, Daniel, Lilly, Michael, Charlotte, Matilda, Matthew,
+        and many more from ElevenLabs voice library.
+
+        Parameters:
+            text: The text to synthesize
+            voice: Voice ID or name (default: Rachel — warm narrator)
+            stability: 0.0-1.0, higher = more consistent
+            similarity_boost: 0.0-1.0, higher = closer to original voice
+        """
+        arguments = {
+            "text": text,
+            "voice_settings": {
+                "voice_id": voice,
+                "stability": stability,
+                "similarity_boost": similarity_boost,
+            },
+        }
+        result = self._client().subscribe(
+            endpoint, arguments=arguments, client_timeout=300
+        )
+        # ElevenLabs pricing: ~$0.30 per 1k chars on v3
+        char_count = len(text)
+        result["cost"] = round(char_count * 0.0003, 6)
         return result
 
     def generate_speech_seed(

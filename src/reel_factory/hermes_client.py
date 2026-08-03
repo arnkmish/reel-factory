@@ -16,7 +16,7 @@ from reel_factory.models import ReviewResult
 class HermesClient:
     """Client for invoking Hermes for structured generation/review tasks."""
 
-    def __init__(self, profile: str = "default", timeout: int = 120):
+    def __init__(self, profile: str = "default", timeout: int = 180):
         self.profile = profile
         self.timeout = timeout
 
@@ -36,11 +36,24 @@ class HermesClient:
             if result.returncode != 0:
                 raise RuntimeError(f"Hermes CLI error: {result.stderr[:500]}")
             output = result.stdout.strip()
-            # Strip trailing "session_id: ..." line that Hermes adds in quiet mode
+            # Strip lines that Hermes adds that aren't part of the response:
+            # - "session_id: ..." line at the end
+            # - "⚠ tirith security scanner ..." warning line at the start
+            # - Any leading/trailing whitespace-only or warning lines
             lines = output.split("\n")
+            # Remove trailing session_id line
             if lines and lines[-1].startswith("session_id:"):
                 lines = lines[:-1]
-            return "\n".join(lines).strip()
+            # Remove leading warning lines (lines starting with ⚠ or containing "tirith")
+            while lines and (lines[0].startswith("⚠") or "tirith" in lines[0].lower()):
+                lines = lines[1:]
+            # Remove leading empty lines
+            while lines and not lines[0].strip():
+                lines = lines[1:]
+            result_text = "\n".join(lines).strip()
+            if not result_text:
+                raise RuntimeError("Hermes returned empty output")
+            return result_text
         except subprocess.TimeoutExpired:
             raise RuntimeError(f"Hermes timed out after {self.timeout}s")
 

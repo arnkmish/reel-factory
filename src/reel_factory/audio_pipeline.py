@@ -20,6 +20,7 @@ import urllib.request
 from typing import List, Optional
 
 from reel_factory.fal_gateway import FalGateway
+from reel_factory.download import download_file
 from reel_factory.models import GeneratedAudioAsset, ScriptPackage, ScriptScene
 
 
@@ -64,27 +65,47 @@ class AudioPipeline:
         self.workdir = workdir or os.path.join(os.getcwd(), "runtime", "output")
 
     def _generate_speech(self, text: str) -> dict:
-        """Call the appropriate TTS backend based on configuration."""
-        if self.tts_backend == "minimax":
-            return self.gateway.generate_speech_minimax(
-                text=text,
-                voice=self.voice if self.voice != "af_nova" else "English_expressive_narrator",
-                endpoint=self.tts_endpoint,
-            )
-        elif self.tts_backend == "seed":
-            return self.gateway.generate_speech_seed(
-                text=text,
-                voice=self.voice if self.voice != "af_nova" else "stokie_en",
-                speed=self.speed,
-                endpoint=self.tts_endpoint,
-            )
-        else:  # kokoro (default)
-            return self.gateway.generate_speech(
-                text=text,
-                voice=self.voice,
-                speed=self.speed,
-                endpoint=self.tts_endpoint,
-            )
+        """Call the appropriate TTS backend based on configuration.
+        
+        Retries up to 3 times on transient fal.ai failures (timeouts, 504s).
+        """
+        import time
+        max_retries = 3
+        last_error = None
+        for attempt in range(1, max_retries + 1):
+            try:
+                if self.tts_backend == "minimax":
+                    return self.gateway.generate_speech_minimax(
+                        text=text,
+                        voice=self.voice if self.voice != "af_nova" else "English_expressive_narrator",
+                        endpoint=self.tts_endpoint,
+                    )
+                elif self.tts_backend == "seed":
+                    return self.gateway.generate_speech_seed(
+                        text=text,
+                        voice=self.voice if self.voice != "af_nova" else "stokie_en",
+                        speed=self.speed,
+                        endpoint=self.tts_endpoint,
+                    )
+                elif self.tts_backend == "elevenlabs":
+                    return self.gateway.generate_speech_elevenlabs(
+                        text=text,
+                        voice=self.voice if self.voice != "af_nova" else "Rachel",
+                        endpoint=self.tts_endpoint,
+                    )
+                else:  # kokoro (default)
+                    return self.gateway.generate_speech(
+                        text=text,
+                        voice=self.voice,
+                        speed=self.speed,
+                        endpoint=self.tts_endpoint,
+                    )
+            except Exception as e:
+                last_error = e
+                print(f"    TTS attempt {attempt}/{max_retries} failed: {str(e)[:120]}")
+                if attempt < max_retries:
+                    time.sleep(5 * attempt)  # backoff: 5s, 10s
+        raise RuntimeError(f"TTS failed after {max_retries} attempts: {last_error}")
 
     def _extract_audio_url(self, result: dict) -> str:
         """Extract the audio URL from various fal response formats."""
@@ -105,11 +126,9 @@ class AudioPipeline:
         # Use .wav for Kokoro, .mp3 for others — match what the API returns
         ext = ".wav" if "kokoro" in self.tts_endpoint else ".mp3"
         local_path = os.path.join(self.workdir, f"narration_{scene_id}{ext}")
-        try:
-            urllib.request.urlretrieve(url, local_path)
+        if download_file(url, local_path):
             return local_path
-        except Exception:
-            return None
+        return None
 
     def generate_scene_narration(
         self,

@@ -16,6 +16,7 @@ import urllib.request
 from typing import List, Optional
 
 from reel_factory.fal_gateway import FalGateway
+from reel_factory.download import download_file
 from reel_factory.models import (
     GeneratedImageAsset, StoryboardPackage, StoryboardScene,
 )
@@ -57,11 +58,9 @@ class ImagePipeline:
             return None
         os.makedirs(self.workdir, exist_ok=True)
         local_path = os.path.join(self.workdir, f"image_{scene_id}.png")
-        try:
-            urllib.request.urlretrieve(url, local_path)
+        if download_file(url, local_path):
             return local_path
-        except Exception:
-            return None
+        return None
 
     def generate_scene(
         self,

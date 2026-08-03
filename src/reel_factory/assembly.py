@@ -16,6 +16,7 @@ from typing import Dict, List, Optional
 from reel_factory.models import (
     GeneratedImageAsset, GeneratedAudioAsset, ScriptPackage, StoryboardPackage,
 )
+from reel_factory.download import download_file
 
 
 # ── Cross-platform font resolution ─────────────────────────
@@ -269,11 +270,8 @@ class AssemblyPipeline:
             tmp = self.workdir / f"image_{image.scene_id}.png"
             if tmp.exists():
                 return str(tmp)
-            try:
-                urllib.request.urlretrieve(image.output_url, tmp)
+            if download_file(image.output_url, str(tmp)):
                 return str(tmp)
-            except Exception:
-                return None
         return None
 
     def _get_local_audio(self, audio: GeneratedAudioAsset) -> Optional[str]:
@@ -281,17 +279,13 @@ class AssemblyPipeline:
         if audio.local_path and Path(audio.local_path).exists():
             return audio.local_path
         if audio.output_url:
-            # Try common extensions
             for ext in (".mp3", ".wav"):
                 tmp = self.workdir / f"narration_{audio.scene_id}{ext}"
                 if tmp.exists():
                     return str(tmp)
             tmp = self.workdir / f"narration_{audio.scene_id}.mp3"
-            try:
-                urllib.request.urlretrieve(audio.output_url, tmp)
+            if download_file(audio.output_url, str(tmp)):
                 return str(tmp)
-            except Exception:
-                return None
         return None
 
     def _create_scene_segment(

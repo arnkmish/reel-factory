@@ -18,6 +18,9 @@ speech:
   seed:
     endpoint: "fal-ai/bytedance/seed-speech/tts/v2"
     role: "warm_storyteller_narration"
+  elevenlabs:
+    endpoint: "fal-ai/elevenlabs/tts/eleven-v3"
+    role: "high_quality_narration"
 
 review:
   source_model: "hermes-3-llama-3.1-8b"

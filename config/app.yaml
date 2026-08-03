@@ -25,10 +25,10 @@ app:
     scene_max: 7
 
   # TTS configuration — controls which speech backend is used.
-  # Options: "kokoro" (default, cheapest), "minimax" (expressive), "seed" (ByteDance, warm storyteller)
+  # Options: "kokoro" (cheapest), "minimax" (expressive), "seed" (ByteDance, warm), "elevenlabs" (highest quality)
   tts:
-    backend: "kokoro"
-    voice: "af_nova"
+    backend: "elevenlabs"
+    voice: "Rachel"
     speed: 0.85
 
   # Image generation — character consistency via sequential image-to-image editing.

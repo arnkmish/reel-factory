@@ -11,6 +11,7 @@ dependencies = [
     "structlog",
     "tenacity",
     "pillow",
+    "certifi",
     "google-api-python-client",
     "google-auth-oauthlib",
     "gspread",
